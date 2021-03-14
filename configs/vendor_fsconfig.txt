@@ -1,0 +1,1564 @@
+/ 0 2000 0755
+vendor 0 2000 0755
+vendor/bin 0 2000 0751
+vendor/bin/ATFWD-daemon 0 2000 0755
+vendor/bin/acpi 0 2000 0755 toybox_vendor
+vendor/bin/adsprpcd 0 2000 0755
+vendor/bin/applypatch 0 2000 0755
+vendor/bin/awk 0 2000 0755
+vendor/bin/base64 0 2000 0755 toybox_vendor
+vendor/bin/basename 0 2000 0755 toybox_vendor
+vendor/bin/blockdev 0 2000 0755 toybox_vendor
+vendor/bin/boringssl_self_test32 0 2000 0755
+vendor/bin/boringssl_self_test64 0 2000 0755
+vendor/bin/cal 0 2000 0755 toybox_vendor
+vendor/bin/cat 0 2000 0755 toybox_vendor
+vendor/bin/chattr 0 2000 0755 toybox_vendor
+vendor/bin/chcon 0 2000 0755 toybox_vendor
+vendor/bin/chgrp 0 2000 0755 toybox_vendor
+vendor/bin/chmod 0 2000 0755 toybox_vendor
+vendor/bin/chown 0 2000 0755 toybox_vendor
+vendor/bin/chroot 0 2000 0755 toybox_vendor
+vendor/bin/chrt 0 2000 0755 toybox_vendor
+vendor/bin/cksum 0 2000 0755 toybox_vendor
+vendor/bin/clear 0 2000 0755 toybox_vendor
+vendor/bin/cmp 0 2000 0755 toybox_vendor
+vendor/bin/cnd 1000 1000 0755 capabilities=0x1000001400
+vendor/bin/cnss-daemon 0 2000 0755
+vendor/bin/comm 0 2000 0755 toybox_vendor
+vendor/bin/cp 0 2000 0755 toybox_vendor
+vendor/bin/cpio 0 2000 0755 toybox_vendor
+vendor/bin/cut 0 2000 0755 toybox_vendor
+vendor/bin/date 0 2000 0755 toybox_vendor
+vendor/bin/dd 0 2000 0755 toybox_vendor
+vendor/bin/devmem 0 2000 0755 toybox_vendor
+vendor/bin/df 0 2000 0755 toybox_vendor
+vendor/bin/diff 0 2000 0755 toybox_vendor
+vendor/bin/dirname 0 2000 0755 toybox_vendor
+vendor/bin/dmesg 0 2000 0755 toybox_vendor
+vendor/bin/dos2unix 0 2000 0755 toybox_vendor
+vendor/bin/dpmQmiMgr 0 2000 0755
+vendor/bin/du 0 2000 0755 toybox_vendor
+vendor/bin/dumpsys 0 2000 0755
+vendor/bin/echo 0 2000 0755 toybox_vendor
+vendor/bin/egrep 0 2000 0755 toybox_vendor
+vendor/bin/env 0 2000 0755 toybox_vendor
+vendor/bin/expand 0 2000 0755 toybox_vendor
+vendor/bin/expr 0 2000 0755 toybox_vendor
+vendor/bin/fallocate 0 2000 0755 toybox_vendor
+vendor/bin/false 0 2000 0755 toybox_vendor
+vendor/bin/fgrep 0 2000 0755 toybox_vendor
+vendor/bin/fidoca 0 2000 0755
+vendor/bin/file 0 2000 0755 toybox_vendor
+vendor/bin/find 0 2000 0755 toybox_vendor
+vendor/bin/flock 0 2000 0755 toybox_vendor
+vendor/bin/fmt 0 2000 0755 toybox_vendor
+vendor/bin/free 0 2000 0755 toybox_vendor
+vendor/bin/fsync 0 2000 0755 toybox_vendor
+vendor/bin/getconf 0 2000 0755 toybox_vendor
+vendor/bin/getenforce 0 2000 0755 toybox_vendor
+vendor/bin/getevent 0 2000 0755 toolbox
+vendor/bin/getprop 0 2000 0755 toolbox
+vendor/bin/grep 0 2000 0755 toybox_vendor
+vendor/bin/groups 0 2000 0755 toybox_vendor
+vendor/bin/gunzip 0 2000 0755 toybox_vendor
+vendor/bin/gzip 0 2000 0755 toybox_vendor
+vendor/bin/head 0 2000 0755 toybox_vendor
+vendor/bin/hostname 0 2000 0755 toybox_vendor
+vendor/bin/hvdcp_opti 0 2000 0755
+vendor/bin/hw 0 2000 0751
+vendor/bin/hw/android.hardware.audio.service 0 2000 0755
+vendor/bin/hw/android.hardware.biometrics.fingerprint@2.1-service.xiaomi_msm8998 0 2000 0755
+vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti 1002 1002 0755 capabilities=0x1000001000
+vendor/bin/hw/android.hardware.camera.provider@2.4-service 0 2000 0755
+vendor/bin/hw/android.hardware.cas@1.2-service 0 2000 0755
+vendor/bin/hw/android.hardware.configstore@1.1-service 0 2000 0755
+vendor/bin/hw/android.hardware.drm@1.0-service 0 2000 0755
+vendor/bin/hw/android.hardware.drm@1.2-service.widevine 0 2000 0755
+vendor/bin/hw/android.hardware.drm@1.3-service.clearkey 0 2000 0755
+vendor/bin/hw/android.hardware.gatekeeper@1.0-service 0 2000 0755
+vendor/bin/hw/android.hardware.gnss@1.0-service-qti 0 2000 0755
+vendor/bin/hw/android.hardware.graphics.allocator@2.0-service 0 2000 0755
+vendor/bin/hw/android.hardware.graphics.composer@2.1-service 0 2000 0755
+vendor/bin/hw/android.hardware.health@2.0-service 0 2000 0755
+vendor/bin/hw/android.hardware.ir@1.0-service 0 2000 0755
+vendor/bin/hw/android.hardware.keymaster@3.0-service 0 2000 0755
+vendor/bin/hw/android.hardware.light@2.0-service 0 2000 0755
+vendor/bin/hw/android.hardware.light@2.0-service.xiaomi_msm8998 0 2000 0755
+vendor/bin/hw/android.hardware.media.omx@1.0-service 0 2000 0755
+vendor/bin/hw/android.hardware.memtrack@1.0-service 0 2000 0755
+vendor/bin/hw/android.hardware.nfc@1.1-service 0 2000 0755
+vendor/bin/hw/android.hardware.power-service-qti 0 2000 0755
+vendor/bin/hw/android.hardware.sensors@1.0-service 0 2000 0755
+vendor/bin/hw/android.hardware.usb@1.0-service 0 2000 0755
+vendor/bin/hw/android.hardware.vibrator@1.1-service.msm8998 0 2000 0755
+vendor/bin/hw/android.hardware.wifi@1.0-service 0 2000 0755
+vendor/bin/hw/hostapd 0 2000 0755
+vendor/bin/hw/rild 0 2000 0755
+vendor/bin/hw/vendor.qti.hardware.alarm@1.0-service 0 2000 0755
+vendor/bin/hw/vendor.qti.hardware.perf@1.0-service 0 2000 0755
+vendor/bin/hw/vendor.qti.hardware.qccvndhal@1.0-service 0 2000 0755
+vendor/bin/hw/vendor.qti.hardware.soter@1.0-service 0 2000 0755
+vendor/bin/hw/vendor.qti.hardware.tui_comm@1.0-service-qti 0 2000 0755
+vendor/bin/hw/vendor.xiaomi.hardware.displayfeature@1.0-service 0 2000 0755
+vendor/bin/hw/vendor.xiaomi.hardware.misys@1.0-service 0 2000 0755
+vendor/bin/hw/vendor.xiaomi.hardware.misys@2.0-service 0 2000 0755
+vendor/bin/hw/vendor.xiaomi.hardware.misys@3.0-service 0 2000 0755
+vendor/bin/hw/wpa_supplicant 0 2000 0755
+vendor/bin/hwclock 0 2000 0755 toybox_vendor
+vendor/bin/i2cdetect 0 2000 0755 toybox_vendor
+vendor/bin/i2cdump 0 2000 0755 toybox_vendor
+vendor/bin/i2cget 0 2000 0755 toybox_vendor
+vendor/bin/i2cset 0 2000 0755 toybox_vendor
+vendor/bin/iconv 0 2000 0755 toybox_vendor
+vendor/bin/id 0 2000 0755 toybox_vendor
+vendor/bin/ifconfig 0 2000 0755 toybox_vendor
+vendor/bin/ims_rtp_daemon 1001 1001 0755 capabilities=0x400
+vendor/bin/imsdatadaemon 1001 1001 0755 capabilities=0x400
+vendor/bin/imsqmidaemon 0 2000 0755
+vendor/bin/imsrcsd 1001 1001 0755 capabilities=0x1800000400
+vendor/bin/init.panel_info.sh 0 2000 0755
+vendor/bin/init.qcom.early_boot.sh 0 2000 0755
+vendor/bin/init.qcom.post_boot.sh 0 2000 0755
+vendor/bin/init.qcom.sh 0 2000 0755
+vendor/bin/inotifyd 0 2000 0755 toybox_vendor
+vendor/bin/insmod 0 2000 0755 toybox_vendor
+vendor/bin/install 0 2000 0755 toybox_vendor
+vendor/bin/install-recovery.sh 0 0 0750
+vendor/bin/ionice 0 2000 0755 toybox_vendor
+vendor/bin/iorenice 0 2000 0755 toybox_vendor
+vendor/bin/ipacm 0 2000 0755
+vendor/bin/irsc_util 0 2000 0755
+vendor/bin/kill 0 2000 0755 toybox_vendor
+vendor/bin/killall 0 2000 0755 toybox_vendor
+vendor/bin/ln 0 2000 0755 toybox_vendor
+vendor/bin/load_policy 0 2000 0755 toybox_vendor
+vendor/bin/loc_launcher 1021 1021 0755 capabilities=0xc0
+vendor/bin/log 0 2000 0755 toybox_vendor
+vendor/bin/logname 0 2000 0755 toybox_vendor
+vendor/bin/logwrapper 0 2000 0755
+vendor/bin/losetup 0 2000 0755 toybox_vendor
+vendor/bin/lowi-server 0 2000 0755
+vendor/bin/ls 0 2000 0755 toybox_vendor
+vendor/bin/lsattr 0 2000 0755 toybox_vendor
+vendor/bin/lsmod 0 2000 0755 toybox_vendor
+vendor/bin/lsof 0 2000 0755 toybox_vendor
+vendor/bin/lspci 0 2000 0755 toybox_vendor
+vendor/bin/lsusb 0 2000 0755 toybox_vendor
+vendor/bin/md5sum 0 2000 0755 toybox_vendor
+vendor/bin/microcom 0 2000 0755 toybox_vendor
+vendor/bin/mkdir 0 2000 0755 toybox_vendor
+vendor/bin/mkfifo 0 2000 0755 toybox_vendor
+vendor/bin/mknod 0 2000 0755 toybox_vendor
+vendor/bin/mkswap 0 2000 0755 toybox_vendor
+vendor/bin/mktemp 0 2000 0755 toybox_vendor
+vendor/bin/mlipayd@1.1 0 2000 0755
+vendor/bin/modinfo 0 2000 0755 toybox_vendor
+vendor/bin/modprobe 0 2000 0755 toolbox
+vendor/bin/more 0 2000 0755 toybox_vendor
+vendor/bin/mount 0 2000 0755 toybox_vendor
+vendor/bin/mountpoint 0 2000 0755 toybox_vendor
+vendor/bin/msm_irqbalance 0 2000 0755
+vendor/bin/mtd@1.2 0 2000 0755
+vendor/bin/mv 0 2000 0755 toybox_vendor
+vendor/bin/nc 0 2000 0755 toybox_vendor
+vendor/bin/netcat 0 2000 0755 toybox_vendor
+vendor/bin/netmgrd 0 2000 0755
+vendor/bin/netstat 0 2000 0755 toybox_vendor
+vendor/bin/nice 0 2000 0755 toybox_vendor
+vendor/bin/nl 0 2000 0755 toybox_vendor
+vendor/bin/nohup 0 2000 0755 toybox_vendor
+vendor/bin/nproc 0 2000 0755 toybox_vendor
+vendor/bin/nsenter 0 2000 0755 toybox_vendor
+vendor/bin/od 0 2000 0755 toybox_vendor
+vendor/bin/paste 0 2000 0755 toybox_vendor
+vendor/bin/patch 0 2000 0755 toybox_vendor
+vendor/bin/pd-mapper 1000 1000 0755 capabilities=0x400
+vendor/bin/pgrep 0 2000 0755 toybox_vendor
+vendor/bin/pidof 0 2000 0755 toybox_vendor
+vendor/bin/pkill 0 2000 0755 toybox_vendor
+vendor/bin/pm-proxy 0 2000 0755
+vendor/bin/pm-service 1000 1000 0755 capabilities=0x400
+vendor/bin/pmap 0 2000 0755 toybox_vendor
+vendor/bin/power_off_alarm 0 2000 0755
+vendor/bin/printenv 0 2000 0755 toybox_vendor
+vendor/bin/printf 0 2000 0755 toybox_vendor
+vendor/bin/ps 0 2000 0755 toybox_vendor
+vendor/bin/pwd 0 2000 0755 toybox_vendor
+vendor/bin/qseecomd 0 2000 0755
+vendor/bin/qti 0 2000 0755
+vendor/bin/readelf 0 2000 0755 toybox_vendor
+vendor/bin/readlink 0 2000 0755 toybox_vendor
+vendor/bin/realpath 0 2000 0755 toybox_vendor
+vendor/bin/renice 0 2000 0755 toybox_vendor
+vendor/bin/restorecon 0 2000 0755 toybox_vendor
+vendor/bin/rm 0 2000 0755 toybox_vendor
+vendor/bin/rmdir 0 2000 0755 toybox_vendor
+vendor/bin/rmmod 0 2000 0755 toybox_vendor
+vendor/bin/rmt_storage 0 2000 0755
+vendor/bin/runcon 0 2000 0755 toybox_vendor
+vendor/bin/sed 0 2000 0755 toybox_vendor
+vendor/bin/sendevent 0 2000 0755 toybox_vendor
+vendor/bin/sensors.qti 0 2000 0755
+vendor/bin/seq 0 2000 0755 toybox_vendor
+vendor/bin/setenforce 0 2000 0755 toybox_vendor
+vendor/bin/setprop 0 2000 0755 toolbox
+vendor/bin/setsid 0 2000 0755 toybox_vendor
+vendor/bin/sh 0 2000 0755
+vendor/bin/sha1sum 0 2000 0755 toybox_vendor
+vendor/bin/sha224sum 0 2000 0755 toybox_vendor
+vendor/bin/sha256sum 0 2000 0755 toybox_vendor
+vendor/bin/sha384sum 0 2000 0755 toybox_vendor
+vendor/bin/sha512sum 0 2000 0755 toybox_vendor
+vendor/bin/sleep 0 2000 0755 toybox_vendor
+vendor/bin/sort 0 2000 0755 toybox_vendor
+vendor/bin/split 0 2000 0755 toybox_vendor
+vendor/bin/start 0 2000 0755 toolbox
+vendor/bin/stat 0 2000 0755 toybox_vendor
+vendor/bin/stop 0 2000 0755 toolbox
+vendor/bin/strings 0 2000 0755 toybox_vendor
+vendor/bin/stty 0 2000 0755 toybox_vendor
+vendor/bin/swapoff 0 2000 0755 toybox_vendor
+vendor/bin/swapon 0 2000 0755 toybox_vendor
+vendor/bin/sync 0 2000 0755 toybox_vendor
+vendor/bin/sysctl 0 2000 0755 toybox_vendor
+vendor/bin/tac 0 2000 0755 toybox_vendor
+vendor/bin/tail 0 2000 0755 toybox_vendor
+vendor/bin/tar 0 2000 0755 toybox_vendor
+vendor/bin/taskset 0 2000 0755 toybox_vendor
+vendor/bin/tee 0 2000 0755 toybox_vendor
+vendor/bin/test 0 2000 0755 toybox_vendor
+vendor/bin/tftp_server 0 2000 0755
+vendor/bin/thermal-engine 0 2000 0755
+vendor/bin/tidad@1.2 0 2000 0755
+vendor/bin/time 0 2000 0755 toybox_vendor
+vendor/bin/time_daemon 0 2000 0755
+vendor/bin/timeout 0 2000 0755 toybox_vendor
+vendor/bin/toolbox 0 2000 0755
+vendor/bin/top 0 2000 0755 toybox_vendor
+vendor/bin/touch 0 2000 0755 toybox_vendor
+vendor/bin/toybox_vendor 0 2000 0755
+vendor/bin/tr 0 2000 0755 toybox_vendor
+vendor/bin/true 0 2000 0755 toybox_vendor
+vendor/bin/truncate 0 2000 0755 toybox_vendor
+vendor/bin/tty 0 2000 0755 toybox_vendor
+vendor/bin/ulimit 0 2000 0755 toybox_vendor
+vendor/bin/umount 0 2000 0755 toybox_vendor
+vendor/bin/uname 0 2000 0755 toybox_vendor
+vendor/bin/uniq 0 2000 0755 toybox_vendor
+vendor/bin/unix2dos 0 2000 0755 toybox_vendor
+vendor/bin/unlink 0 2000 0755 toybox_vendor
+vendor/bin/unshare 0 2000 0755 toybox_vendor
+vendor/bin/uptime 0 2000 0755 toybox_vendor
+vendor/bin/usleep 0 2000 0755 toybox_vendor
+vendor/bin/uudecode 0 2000 0755 toybox_vendor
+vendor/bin/uuencode 0 2000 0755 toybox_vendor
+vendor/bin/uuidgen 0 2000 0755 toybox_vendor
+vendor/bin/vmstat 0 2000 0755 toybox_vendor
+vendor/bin/vndservice 0 2000 0755
+vendor/bin/vndservicemanager 0 2000 0755
+vendor/bin/vsimd 0 2000 0755
+vendor/bin/watch 0 2000 0755 toybox_vendor
+vendor/bin/wc 0 2000 0755 toybox_vendor
+vendor/bin/which 0 2000 0755 toybox_vendor
+vendor/bin/whoami 0 2000 0755 toybox_vendor
+vendor/bin/wifi-mac-generator 0 2000 0755
+vendor/bin/wifidisplayhalservice 0 2000 0755
+vendor/bin/xargs 0 2000 0755 toybox_vendor
+vendor/bin/xtra-daemon 0 2000 0755
+vendor/bin/xxd 0 2000 0755 toybox_vendor
+vendor/bin/yes 0 2000 0755 toybox_vendor
+vendor/bin/zcat 0 2000 0755 toybox_vendor
+vendor/bt_firmware 0 2000 0755
+vendor/build.prop 0 0 0600
+vendor/default.prop 0 0 0600
+vendor/dsp 0 2000 0755
+vendor/etc 0 2000 0755
+vendor/etc/IPACM_cfg.xml 0 0 0644
+vendor/etc/MILanPro_Regular.ttf 0 0 0644
+vendor/etc/NOTICE.xml.gz 0 0 0644
+vendor/etc/Roboto_Medium.ttf 0 0 0644
+vendor/etc/a2dp_in_audio_policy_configuration.xml 0 0 0644
+vendor/etc/acdbdata 0 2000 0755
+vendor/etc/acdbdata/Forte 0 2000 0755
+vendor/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb 0 0 0644
+vendor/etc/acdbdata/Forte/Forte_General_cal.acdb 0 0 0644
+vendor/etc/acdbdata/Forte/Forte_Global_cal.acdb 0 0 0644
+vendor/etc/acdbdata/Forte/Forte_Handset_cal.acdb 0 0 0644
+vendor/etc/acdbdata/Forte/Forte_Hdmi_cal.acdb 0 0 0644
+vendor/etc/acdbdata/Forte/Forte_Headset_cal.acdb 0 0 0644
+vendor/etc/acdbdata/Forte/Forte_Speaker_cal.acdb 0 0 0644
+vendor/etc/acdbdata/Forte/Forte_workspaceFile.qwsp 0 0 0644
+vendor/etc/acdbdata/adsp_avs_config.acdb 0 0 0644
+vendor/etc/audio_effects.xml 0 0 0644
+vendor/etc/audio_output_policy.conf 0 0 0644
+vendor/etc/audio_platform_info.xml 0 0 0644
+vendor/etc/audio_policy_configuration.xml 0 0 0644
+vendor/etc/audio_policy_volumes.xml 0 0 0644
+vendor/etc/audio_tuning_mixer.txt 0 0 0644
+vendor/etc/bluetooth_audio_policy_configuration.xml 0 0 0644
+vendor/etc/camera 0 2000 0755
+vendor/etc/camera/camera_config.xml 0 0 0644
+vendor/etc/camera/dualcamera.png 0 0 0644
+vendor/etc/camera/sagit_imx268_chromatix.xml 0 0 0644
+vendor/etc/camera/sagit_imx268_liteon_chromatix.xml 0 0 0644
+vendor/etc/camera/sagit_imx386_semco_chromatix.xml 0 0 0644
+vendor/etc/camera/sagit_s5k3m3_semco_chromatix.xml 0 0 0644
+vendor/etc/cne 0 2000 0755
+vendor/etc/cne/wqeclient 0 2000 0755
+vendor/etc/cne/wqeclient/ATT 0 2000 0755
+vendor/etc/cne/wqeclient/ATT/ATT_profile1.xml 0 0 0644
+vendor/etc/cne/wqeclient/ATT/ATT_profile2.xml 0 0 0644
+vendor/etc/cne/wqeclient/ATT/ATT_profile3.xml 0 0 0644
+vendor/etc/cne/wqeclient/ATT/ATT_profile4.xml 0 0 0644
+vendor/etc/cne/wqeclient/ATT/ATT_profile5.xml 0 0 0644
+vendor/etc/cne/wqeclient/ATT/ATT_profile6.xml 0 0 0644
+vendor/etc/cne/wqeclient/ROW 0 2000 0755
+vendor/etc/cne/wqeclient/ROW/ROW_profile1.xml 0 0 0644
+vendor/etc/cne/wqeclient/ROW/ROW_profile15.xml 0 0 0644
+vendor/etc/cne/wqeclient/ROW/ROW_profile16.xml 0 0 0644
+vendor/etc/cne/wqeclient/ROW/ROW_profile17.xml 0 0 0644
+vendor/etc/cne/wqeclient/ROW/ROW_profile18.xml 0 0 0644
+vendor/etc/cne/wqeclient/ROW/ROW_profile19.xml 0 0 0644
+vendor/etc/cne/wqeclient/ROW/ROW_profile2.xml 0 0 0644
+vendor/etc/cne/wqeclient/ROW/ROW_profile20.xml 0 0 0644
+vendor/etc/cne/wqeclient/ROW/ROW_profile21.xml 0 0 0644
+vendor/etc/cne/wqeclient/ROW/ROW_profile3.xml 0 0 0644
+vendor/etc/cne/wqeclient/ROW/ROW_profile32.xml 0 0 0644
+vendor/etc/cne/wqeclient/ROW/ROW_profile4.xml 0 0 0644
+vendor/etc/cne/wqeclient/ROW/ROW_profile5.xml 0 0 0644
+vendor/etc/cne/wqeclient/ROW/ROW_profile6.xml 0 0 0644
+vendor/etc/cne/wqeclient/ROW/ROW_profile7.xml 0 0 0644
+vendor/etc/cne/wqeclient/VZW 0 2000 0755
+vendor/etc/cne/wqeclient/VZW/VZW_profile1.xml 0 0 0644
+vendor/etc/cne/wqeclient/VZW/VZW_profile2.xml 0 0 0644
+vendor/etc/cne/wqeclient/VZW/VZW_profile3.xml 0 0 0644
+vendor/etc/cne/wqeclient/VZW/VZW_profile4.xml 0 0 0644
+vendor/etc/cne/wqeclient/VZW/VZW_profile5.xml 0 0 0644
+vendor/etc/cne/wqeclient/VZW/VZW_profile6.xml 0 0 0644
+vendor/etc/data 0 2000 0755
+vendor/etc/data/dsi_config.xml 0 0 0644
+vendor/etc/data/netmgr_config.xml 0 0 0644
+vendor/etc/default_volume_tables.xml 0 0 0644
+vendor/etc/device_features 0 0 0755
+vendor/etc/device_features/sagit.xml 0 0 0644
+vendor/etc/diracmobile.config 0 0 0644
+vendor/etc/flp.conf 0 0 0644
+vendor/etc/fs_config_dirs 0 0 0444
+vendor/etc/fs_config_files 0 0 0444
+vendor/etc/fstab.qcom 0 0 0644
+vendor/etc/gps.conf 0 0 0644
+vendor/etc/group 0 0 0644
+vendor/etc/init 0 2000 0755
+vendor/etc/init/android.hardware.audio.service.rc 0 0 0644
+vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service.xiaomi_msm8998.rc 0 0 0644
+vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc 0 0 0644
+vendor/etc/init/android.hardware.camera.provider@2.4-service.rc 0 0 0644
+vendor/etc/init/android.hardware.cas@1.2-service.rc 0 0 0644
+vendor/etc/init/android.hardware.configstore@1.1-service.rc 0 0 0644
+vendor/etc/init/android.hardware.drm@1.0-service.rc 0 0 0644
+vendor/etc/init/android.hardware.drm@1.2-service.widevine.rc 0 0 0644
+vendor/etc/init/android.hardware.drm@1.3-service.clearkey.rc 0 0 0644
+vendor/etc/init/android.hardware.gatekeeper@1.0-service.rc 0 0 0644
+vendor/etc/init/android.hardware.gnss@1.0-service-qti.rc 0 0 0644
+vendor/etc/init/android.hardware.graphics.allocator@2.0-service.rc 0 0 0644
+vendor/etc/init/android.hardware.graphics.composer@2.1-service.rc 0 0 0644
+vendor/etc/init/android.hardware.health@2.0-service.rc 0 0 0644
+vendor/etc/init/android.hardware.ir@1.0-service.rc 0 0 0644
+vendor/etc/init/android.hardware.keymaster@3.0-service.rc 0 0 0644
+vendor/etc/init/android.hardware.light@2.0-service.rc 0 0 0644
+vendor/etc/init/android.hardware.light@2.0-service.xiaomi_msm8998.rc 0 0 0644
+vendor/etc/init/android.hardware.media.omx@1.0-service.rc 0 0 0644
+vendor/etc/init/android.hardware.memtrack@1.0-service.rc 0 0 0644
+vendor/etc/init/android.hardware.nfc@1.1-service.rc 0 0 0644
+vendor/etc/init/android.hardware.power-service-qti.rc 0 0 0644
+vendor/etc/init/android.hardware.sensors@1.0-service.rc 0 0 0644
+vendor/etc/init/android.hardware.usb@1.0-service.rc 0 0 0644
+vendor/etc/init/android.hardware.vibrator@1.1-service.msm8998.rc 0 0 0644
+vendor/etc/init/android.hardware.wifi.supplicant-service.rc 0 0 0644
+vendor/etc/init/android.hardware.wifi@1.0-service.rc 0 0 0644
+vendor/etc/init/boringssl_self_test.rc 0 0 0644
+vendor/etc/init/cnd.rc 0 0 0644
+vendor/etc/init/com.qualcomm.qti.wifidisplayhal@1.0-service.rc 0 0 0644
+vendor/etc/init/dataqti.rc 0 0 0644
+vendor/etc/init/dpmQmiMgr.rc 0 0 0644
+vendor/etc/init/hostapd.android.rc 0 0 0644
+vendor/etc/init/hw 0 2000 0755
+vendor/etc/init/hw/init.qcom.rc 0 0 0644
+vendor/etc/init/hw/init.qcom.usb.rc 0 0 0644
+vendor/etc/init/hw/init.target.rc 0 0 0644
+vendor/etc/init/ims_rtp_daemon.rc 0 0 0644
+vendor/etc/init/imsdatadaemon.rc 0 0 0644
+vendor/etc/init/imsqmidaemon.rc 0 0 0644
+vendor/etc/init/imsrcsd.rc 0 0 0644
+vendor/etc/init/init.time_daemon.rc 0 0 0644
+vendor/etc/init/ipacm.rc 0 0 0644
+vendor/etc/init/netmgrd.rc 0 0 0644
+vendor/etc/init/rild.legacy.rc 0 0 0644
+vendor/etc/init/vendor.qti.hardware.alarm@1.0-service.rc 0 0 0644
+vendor/etc/init/vendor.qti.hardware.perf@1.0-service.rc 0 0 0644
+vendor/etc/init/vendor.qti.hardware.qccvndhal@1.0-service.rc 0 0 0644
+vendor/etc/init/vendor.qti.hardware.soter@1.0-service.rc 0 0 0644
+vendor/etc/init/vendor.qti.hardware.tui_comm@1.0-service-qti.rc 0 0 0644
+vendor/etc/init/vendor.xiaomi.hardware.displayfeature@1.0-service.rc 0 0 0644
+vendor/etc/init/vendor.xiaomi.hardware.mfidoca@1.0-service.rc 0 0 0644
+vendor/etc/init/vendor.xiaomi.hardware.misys@1.0-service.rc 0 0 0644
+vendor/etc/init/vendor.xiaomi.hardware.misys@2.0-service.rc 0 0 0644
+vendor/etc/init/vendor.xiaomi.hardware.mlipay@1.1-service.rc 0 0 0644
+vendor/etc/init/vendor.xiaomi.hardware.mtdservice@1.2-service.rc 0 0 0644
+vendor/etc/init/vendor.xiaomi.hardware.tidaservice@1.2-service.rc 0 0 0644
+vendor/etc/init/vndservicemanager.rc 0 0 0644
+vendor/etc/init/wifi-mac-generator.rc 0 0 0644
+vendor/etc/izat.conf 0 0 0644
+vendor/etc/libnfc-nxp.conf 0 0 0644
+vendor/etc/lowi.conf 0 0 0644
+vendor/etc/media_codecs.xml 0 0 0644
+vendor/etc/media_codecs_google_audio.xml 0 0 0644
+vendor/etc/media_codecs_google_telephony.xml 0 0 0644
+vendor/etc/media_codecs_google_video.xml 0 0 0644
+vendor/etc/media_codecs_performance.xml 0 0 0644
+vendor/etc/media_profiles_V1_0.xml 0 0 0644
+vendor/etc/mixer_paths_tasha.xml 0 0 0644
+vendor/etc/mkshrc 0 0 0644
+vendor/etc/msm_irqbalance.conf 0 0 0644
+vendor/etc/passwd 0 0 0644
+vendor/etc/perf 0 2000 0755
+vendor/etc/perf/commonresourceconfigs.xml 0 0 0644
+vendor/etc/perf/perf-profile0.conf 0 0 0644
+vendor/etc/perf/perf-profile1.conf 0 0 0644
+vendor/etc/perf/perf-profile2.conf 0 0 0644
+vendor/etc/perf/perf-profile3.conf 0 0 0644
+vendor/etc/perf/perf-profile4.conf 0 0 0644
+vendor/etc/perf/perf-profile5.conf 0 0 0644
+vendor/etc/perf/perf-profile6.conf 0 0 0644
+vendor/etc/perf/perfboostsconfig.xml 0 0 0644
+vendor/etc/perf/targetconfig.xml 0 0 0644
+vendor/etc/perf/targetresourceconfigs.xml 0 0 0644
+vendor/etc/permissions 0 2000 0755
+vendor/etc/permissions/android.hardware.audio.low_latency.xml 0 0 0644
+vendor/etc/permissions/android.hardware.audio.pro.xml 0 0 0644
+vendor/etc/permissions/android.hardware.bluetooth.xml 0 0 0644
+vendor/etc/permissions/android.hardware.bluetooth_le.xml 0 0 0644
+vendor/etc/permissions/android.hardware.camera.flash-autofocus.xml 0 0 0644
+vendor/etc/permissions/android.hardware.camera.front.xml 0 0 0644
+vendor/etc/permissions/android.hardware.camera.full.xml 0 0 0644
+vendor/etc/permissions/android.hardware.camera.raw.xml 0 0 0644
+vendor/etc/permissions/android.hardware.consumerir.xml 0 0 0644
+vendor/etc/permissions/android.hardware.fingerprint.xml 0 0 0644
+vendor/etc/permissions/android.hardware.location.gps.xml 0 0 0644
+vendor/etc/permissions/android.hardware.nfc.hce.xml 0 0 0644
+vendor/etc/permissions/android.hardware.nfc.xml 0 0 0644
+vendor/etc/permissions/android.hardware.opengles.aep.xml 0 0 0644
+vendor/etc/permissions/android.hardware.sensor.accelerometer.xml 0 0 0644
+vendor/etc/permissions/android.hardware.sensor.barometer.xml 0 0 0644
+vendor/etc/permissions/android.hardware.sensor.compass.xml 0 0 0644
+vendor/etc/permissions/android.hardware.sensor.gyroscope.xml 0 0 0644
+vendor/etc/permissions/android.hardware.sensor.hifi_sensors.xml 0 0 0644
+vendor/etc/permissions/android.hardware.sensor.light.xml 0 0 0644
+vendor/etc/permissions/android.hardware.sensor.proximity.xml 0 0 0644
+vendor/etc/permissions/android.hardware.sensor.stepcounter.xml 0 0 0644
+vendor/etc/permissions/android.hardware.sensor.stepdetector.xml 0 0 0644
+vendor/etc/permissions/android.hardware.telephony.cdma.xml 0 0 0644
+vendor/etc/permissions/android.hardware.telephony.gsm.xml 0 0 0644
+vendor/etc/permissions/android.hardware.telephony.ims.xml 0 0 0644
+vendor/etc/permissions/android.hardware.touchscreen.multitouch.jazzhand.xml 0 0 0644
+vendor/etc/permissions/android.hardware.usb.accessory.xml 0 0 0644
+vendor/etc/permissions/android.hardware.usb.host.xml 0 0 0644
+vendor/etc/permissions/android.hardware.vulkan.compute-0.xml 0 0 0644
+vendor/etc/permissions/android.hardware.vulkan.level.xml 0 0 0644
+vendor/etc/permissions/android.hardware.vulkan.version.xml 0 0 0644
+vendor/etc/permissions/android.hardware.wifi.direct.xml 0 0 0644
+vendor/etc/permissions/android.hardware.wifi.passpoint.xml 0 0 0644
+vendor/etc/permissions/android.hardware.wifi.xml 0 0 0644
+vendor/etc/permissions/android.software.ipsec_tunnels.xml 0 0 0644
+vendor/etc/permissions/android.software.midi.xml 0 0 0644
+vendor/etc/permissions/android.software.sip.voip.xml 0 0 0644
+vendor/etc/permissions/com.android.nfc_extras.xml 0 0 0644
+vendor/etc/permissions/com.dsi.ant.antradio_library.xml 0 0 0644
+vendor/etc/permissions/com.nxp.mifare.xml 0 0 0644
+vendor/etc/permissions/handheld_core_hardware.xml 0 0 0644
+vendor/etc/permissions/qti_libpermissions.xml 0 0 0644
+vendor/etc/powerhint.xml 0 0 0644
+vendor/etc/public.libraries.txt 0 0 0644
+vendor/etc/qdcm_calib_data_jdi_fhd_cmd_incell_dsi_panel.xml 0 0 0644
+vendor/etc/qdcm_calib_data_lgd_fhd_cmd_incell_dsi_panel.xml 0 0 0644
+vendor/etc/r_submix_audio_policy_configuration.xml 0 0 0644
+vendor/etc/recovery-resource.dat 0 0 0644
+vendor/etc/sap.conf 0 0 0644
+vendor/etc/sec_config 0 0 0644
+vendor/etc/seccomp_policy 0 2000 0755
+vendor/etc/seccomp_policy/configstore@1.1.policy 0 0 0644
+vendor/etc/seccomp_policy/imsrtp.policy 0 0 0644
+vendor/etc/seccomp_policy/mediacodec.policy 0 0 0644
+vendor/etc/seccomp_policy/mediaextractor.policy 0 0 0644
+vendor/etc/selinux 0 2000 0755
+vendor/etc/selinux/plat_pub_versioned.cil 0 0 0644
+vendor/etc/selinux/plat_sepolicy_vers.txt 0 0 0644
+vendor/etc/selinux/precompiled_sepolicy 0 0 0644
+vendor/etc/selinux/precompiled_sepolicy.plat_sepolicy_and_mapping.sha256 0 0 0644
+vendor/etc/selinux/precompiled_sepolicy.product_sepolicy_and_mapping.sha256 0 0 0644
+vendor/etc/selinux/precompiled_sepolicy.system_ext_sepolicy_and_mapping.sha256 0 0 0644
+vendor/etc/selinux/selinux_denial_metadata 0 0 0644
+vendor/etc/selinux/vendor_file_contexts 0 0 0644
+vendor/etc/selinux/vendor_hwservice_contexts 0 0 0644
+vendor/etc/selinux/vendor_mac_permissions.xml 0 0 0644
+vendor/etc/selinux/vendor_property_contexts 0 0 0644
+vendor/etc/selinux/vendor_seapp_contexts 0 0 0644
+vendor/etc/selinux/vendor_sepolicy.cil 0 0 0644
+vendor/etc/selinux/vendor_service_contexts 0 0 0644
+vendor/etc/selinux/vndservice_contexts 0 0 0644
+vendor/etc/sensors 0 2000 0755
+vendor/etc/sensors/hals.conf 0 0 0644
+vendor/etc/sensors/sensor_def_qcomdev.conf 0 0 0644
+vendor/etc/sound_trigger_mixer_paths.xml 0 0 0644
+vendor/etc/sound_trigger_platform_info.xml 0 0 0644
+vendor/etc/spk_pb.wav 0 0 0644
+vendor/etc/sysconfig 0 2000 0755
+vendor/etc/sysconfig/component-overrides.xml 0 0 0644
+vendor/etc/thermal-engine-8998-high.conf 0 0 0644
+vendor/etc/thermal-engine-8998.conf 0 0 0644
+vendor/etc/thermal-engine.conf 0 0 0644
+vendor/etc/vintf 0 2000 0755
+vendor/etc/vintf/compatibility_matrix.xml 0 0 0644
+vendor/etc/vintf/manifest 0 2000 0755
+vendor/etc/vintf/manifest.xml 0 0 0644
+vendor/etc/vintf/manifest/android.hardware.cas@1.2-service.xml 0 0 0644
+vendor/etc/vintf/manifest/android.hardware.usb@1.0-service.xml 0 0 0644
+vendor/etc/vintf/manifest/android.hardware.wifi.hostapd.xml 0 0 0644
+vendor/etc/vintf/manifest/android.hardware.wifi@1.0-service.xml 0 0 0644
+vendor/etc/vintf/manifest/manifest.xml 0 0 0644
+vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.clearkey.xml 0 0 0644
+vendor/etc/vintf/manifest/power.xml 0 0 0644
+vendor/etc/wifi 0 2000 0755
+vendor/etc/wifi/WCNSS_qcom_cfg.ini 0 0 0644
+vendor/etc/wifi/p2p_supplicant_overlay.conf 0 0 0644
+vendor/etc/wifi/wpa_supplicant.conf 0 0 0644
+vendor/etc/wifi/wpa_supplicant_overlay.conf 0 0 0644
+vendor/etc/xtwifi.conf 0 0 0644
+vendor/firmware 0 2000 0755
+vendor/firmware/a530_pfp.fw 0 0 0644
+vendor/firmware/a530_pm4.fw 0 0 0644
+vendor/firmware/a540_gpmu.fw2 0 0 0644
+vendor/firmware/a540_zap.b00 0 0 0644
+vendor/firmware/a540_zap.b01 0 0 0644
+vendor/firmware/a540_zap.b02 0 0 0644
+vendor/firmware/a540_zap.elf 0 0 0644
+vendor/firmware/a540_zap.mdt 0 0 0644
+vendor/firmware/cpp_firmware_v1_12_0.fw 0 0 0644
+vendor/firmware/ipa_fws.b00 0 0 0644
+vendor/firmware/ipa_fws.b01 0 0 0644
+vendor/firmware/ipa_fws.b02 0 0 0644
+vendor/firmware/ipa_fws.b03 0 0 0644
+vendor/firmware/ipa_fws.b04 0 0 0644
+vendor/firmware/ipa_fws.elf 0 0 0644
+vendor/firmware/ipa_fws.mdt 0 0 0644
+vendor/firmware/tfa98xx_aac.cnt 0 0 0644
+vendor/firmware/tfa98xx_ssi.cnt 0 0 0644
+vendor/firmware/wlan 0 2000 0755
+vendor/firmware/wlan/qca_cld 0 2000 0755
+vendor/firmware/wlan/qca_cld/WCNSS_qcom_cfg.ini 0 0 0644 /vendor/etc/wifi/WCNSS_qcom_cfg.ini
+vendor/firmware/wlan/qca_cld/wlan_mac.bin 0 0 0644 /mnt/vendor/persist/wlan_mac.bin
+vendor/firmware_mnt 0 2000 0755
+vendor/lib 0 2000 0755
+vendor/lib/android.hardware.audio.common-util.so 0 0 0644
+vendor/lib/android.hardware.audio.common@6.0-util.so 0 0 0644
+vendor/lib/android.hardware.camera.provider@2.4-external.so 0 0 0644
+vendor/lib/android.hardware.camera.provider@2.4-legacy.so 0 0 0644
+vendor/lib/android.hidl.base@1.0.so 0 0 0644
+vendor/lib/android.hidl.manager@1.0.so 0 0 0644
+vendor/lib/camera.device@1.0-impl.so 0 0 0644
+vendor/lib/camera.device@3.2-impl.so 0 0 0644
+vendor/lib/camera.device@3.3-impl.so 0 0 0644
+vendor/lib/camera.device@3.4-external-impl.so 0 0 0644
+vendor/lib/camera.device@3.4-impl.so 0 0 0644
+vendor/lib/camera.device@3.5-external-impl.so 0 0 0644
+vendor/lib/camera.device@3.5-impl.so 0 0 0644
+vendor/lib/camera.device@3.6-external-impl.so 0 0 0644
+vendor/lib/com.qualcomm.qti.wifidisplayhal@1.0-halimpl.so 0 0 0644
+vendor/lib/com.qualcomm.qti.wifidisplayhal@1.0.so 0 0 0644
+vendor/lib/egl 0 2000 0755
+vendor/lib/egl/eglSubDriverAndroid.so 0 0 0644
+vendor/lib/egl/libEGL_adreno.so 0 0 0644
+vendor/lib/egl/libGLESv1_CM_adreno.so 0 0 0644
+vendor/lib/egl/libGLESv2_adreno.so 0 0 0644
+vendor/lib/egl/libQTapGLES.so 0 0 0644
+vendor/lib/egl/libq3dtools_adreno.so 0 0 0644
+vendor/lib/egl/libq3dtools_esx.so 0 0 0644
+vendor/lib/hw 0 2000 0755
+vendor/lib/hw/activity_recognition.msm8998.so 0 0 0644
+vendor/lib/hw/android.hardware.audio.effect@6.0-impl.so 0 0 0644
+vendor/lib/hw/android.hardware.audio@6.0-impl.so 0 0 0644
+vendor/lib/hw/android.hardware.bluetooth.audio@2.0-impl.so 0 0 0644
+vendor/lib/hw/android.hardware.camera.provider@2.4-impl.so 0 0 0644
+vendor/lib/hw/android.hardware.drm@1.0-impl.so 0 0 0644
+vendor/lib/hw/android.hardware.gatekeeper@1.0-impl.so 0 0 0644
+vendor/lib/hw/android.hardware.gnss@1.0-impl-qti.so 0 0 0644
+vendor/lib/hw/android.hardware.graphics.allocator@2.0-impl.so 0 0 0644
+vendor/lib/hw/android.hardware.graphics.mapper@2.0-impl.so 0 0 0644
+vendor/lib/hw/android.hardware.ir@1.0-impl.so 0 0 0644
+vendor/lib/hw/android.hardware.keymaster@3.0-impl.so 0 0 0644
+vendor/lib/hw/android.hardware.light@2.0-impl.so 0 0 0644
+vendor/lib/hw/android.hardware.memtrack@1.0-impl.so 0 0 0644
+vendor/lib/hw/android.hardware.renderscript@1.0-impl.so 0 0 0644
+vendor/lib/hw/android.hardware.sensors@1.0-impl.so 0 0 0644
+vendor/lib/hw/android.hardware.soundtrigger@2.2-impl.so 0 0 0644
+vendor/lib/hw/audio.bluetooth.default.so 0 0 0644
+vendor/lib/hw/audio.primary.default.so 0 0 0644
+vendor/lib/hw/audio.primary.msm8998.so 0 0 0644
+vendor/lib/hw/audio.r_submix.default.so 0 0 0644
+vendor/lib/hw/audio.usb.default.so 0 0 0644
+vendor/lib/hw/camera.msm8998.so 0 0 0644
+vendor/lib/hw/gralloc.default.so 0 0 0644
+vendor/lib/hw/gralloc.msm8998.so 0 0 0644
+vendor/lib/hw/hwcomposer.msm8998.so 0 0 0644
+vendor/lib/hw/lights.msm8998.so 0 0 0644
+vendor/lib/hw/local_time.default.so 0 0 0644
+vendor/lib/hw/memtrack.msm8998.so 0 0 0644
+vendor/lib/hw/power.default.so 0 0 0644
+vendor/lib/hw/sound_trigger.primary.msm8998.so 0 0 0644
+vendor/lib/hw/vendor.qti.hardware.qccvndhal@1.0-impl.so 0 0 0644
+vendor/lib/hw/vendor.xiaomi.hardware.displayfeature@1.0-impl.so 0 0 0644
+vendor/lib/hw/vendor.xiaomi.hardware.misys@1.0-impl.so 0 0 0644
+vendor/lib/hw/vendor.xiaomi.hardware.misys@2.0-impl.so 0 0 0644
+vendor/lib/hw/vendor.xiaomi.hardware.misys@3.0-impl.so 0 0 0644
+vendor/lib/hw/vibrator.default.so 0 0 0644
+vendor/lib/hw/vulkan.msm8998.so 0 0 0644
+vendor/lib/libC2D2.so 0 0 0644
+vendor/lib/libCB.so 0 0 0644
+vendor/lib/libDiracAPI_SHARED.so 0 0 0644
+vendor/lib/libFaceGrade.so 0 0 0644
+vendor/lib/libGLESv2_adreno.so 0 0 0644 egl/libGLESv2_adreno.so
+vendor/lib/libMiCameraHal.so 0 0 0644
+vendor/lib/libOmxAacEnc.so 0 0 0644
+vendor/lib/libOmxAmrEnc.so 0 0 0644
+vendor/lib/libOmxCore.so 0 0 0644
+vendor/lib/libOmxEvrcDec.so 0 0 0644
+vendor/lib/libOmxEvrcEnc.so 0 0 0644
+vendor/lib/libOmxQcelp13Enc.so 0 0 0644
+vendor/lib/libOmxVdec.so 0 0 0644
+vendor/lib/libOmxVenc.so 0 0 0644
+vendor/lib/libOmxVpp.so 0 0 0644
+vendor/lib/libOpenCL.so 0 0 0644
+vendor/lib/libRSDriver_adreno.so 0 0 0644
+vendor/lib/libSonyIMX386PdafLibrary.so 0 0 0644
+vendor/lib/libXMFD_AgeGender.so 0 0 0644
+vendor/lib/lib_lowlight.so 0 0 0644
+vendor/lib/lib_lowlight_dxo.so 0 0 0644
+vendor/lib/libacdb-fts.so 0 0 0644
+vendor/lib/libacdbloader.so 0 0 0644
+vendor/lib/libacdbrtac.so 0 0 0644
+vendor/lib/libactuator_ak7371.so 0 0 0644
+vendor/lib/libactuator_ak7371_s5k3m3_semco.so 0 0 0644
+vendor/lib/libadiertac.so 0 0 0644
+vendor/lib/libadm.so 0 0 0644
+vendor/lib/libadreno_utils.so 0 0 0644
+vendor/lib/libadsprpc.so 0 0 0644
+vendor/lib/libalsautils.so 0 0 0644
+vendor/lib/libarcsoft_beauty_shot.so 0 0 0644
+vendor/lib/libarcsoft_beautyshot.so 0 0 0644
+vendor/lib/libarcsoft_beautyshot_image_algorithm.so 0 0 0644
+vendor/lib/libarcsoft_beautyshot_video_algorithm.so 0 0 0644
+vendor/lib/libarcsoft_dualcam_optical_zoom.so 0 0 0644
+vendor/lib/libarcsoft_dualcam_optical_zoom_control.so 0 0 0644
+vendor/lib/libarcsoft_dualcam_refocus.so 0 0 0644
+vendor/lib/libaudcal.so 0 0 0644
+vendor/lib/libavservices_minijail.so 0 0 0644
+vendor/lib/libbccQTI.so 0 0 0644
+vendor/lib/libbluetooth_audio_session.so 0 0 0644
+vendor/lib/libc2d30_bltlib.so 0 0 0644
+vendor/lib/libc2dcolorconvert.so 0 0 0644
+vendor/lib/libchromatix_imx268_4k_preview_3a.so 0 0 0644
+vendor/lib/libchromatix_imx268_4k_video_3a.so 0 0 0644
+vendor/lib/libchromatix_imx268_common.so 0 0 0644
+vendor/lib/libchromatix_imx268_cpp_hfr_120.so 0 0 0644
+vendor/lib/libchromatix_imx268_cpp_hfr_60.so 0 0 0644
+vendor/lib/libchromatix_imx268_cpp_hfr_90.so 0 0 0644
+vendor/lib/libchromatix_imx268_cpp_liveshot.so 0 0 0644
+vendor/lib/libchromatix_imx268_cpp_preview.so 0 0 0644
+vendor/lib/libchromatix_imx268_cpp_snapshot.so 0 0 0644
+vendor/lib/libchromatix_imx268_cpp_video.so 0 0 0644
+vendor/lib/libchromatix_imx268_cpp_video_4k.so 0 0 0644
+vendor/lib/libchromatix_imx268_default_preview_3a.so 0 0 0644
+vendor/lib/libchromatix_imx268_default_video.so 0 0 0644
+vendor/lib/libchromatix_imx268_default_video_3a.so 0 0 0644
+vendor/lib/libchromatix_imx268_hfr_120.so 0 0 0644
+vendor/lib/libchromatix_imx268_hfr_120_3a.so 0 0 0644
+vendor/lib/libchromatix_imx268_hfr_60.so 0 0 0644
+vendor/lib/libchromatix_imx268_hfr_60_3a.so 0 0 0644
+vendor/lib/libchromatix_imx268_hfr_90.so 0 0 0644
+vendor/lib/libchromatix_imx268_hfr_90_3a.so 0 0 0644
+vendor/lib/libchromatix_imx268_liveshot.so 0 0 0644
+vendor/lib/libchromatix_imx268_postproc.so 0 0 0644
+vendor/lib/libchromatix_imx268_preview.so 0 0 0644
+vendor/lib/libchromatix_imx268_snapshot.so 0 0 0644
+vendor/lib/libchromatix_imx268_video_4k.so 0 0 0644
+vendor/lib/libchromatix_imx268_zsl_preview_3a.so 0 0 0644
+vendor/lib/libchromatix_imx268_zsl_video_3a.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_1080p_preview_ad5816g.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_1080p_video_ad5816g.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_4k_preview_ad5816g.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_4k_video_ad5816g.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_common.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_cpp_hfr_120.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_cpp_hfr_60.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_cpp_hfr_90.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_cpp_liveshot.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_cpp_preview.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_cpp_snapshot.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_cpp_snapshot_downscale.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_cpp_snapshot_upscale.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_cpp_video.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_cpp_video_4k.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_default_preview_ad5816g.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_default_video.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_default_video_ad5816g.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_hfr_120.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_hfr_120_ad5816g.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_hfr_60.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_hfr_60_ad5816g.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_hfr_90.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_hfr_90_ad5816g.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_liveshot.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_postproc.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_preview.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_snapshot.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_video_4k.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_zsl_preview_ad5816g.so 0 0 0644
+vendor/lib/libchromatix_s5k3m3_semco_zsl_video_ad5816g.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_4k_preview_3a.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_4k_video_3a.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_common.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_cpp_hfr_120.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_cpp_hfr_60.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_cpp_hfr_90.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_cpp_liveshot.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_cpp_preview.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_cpp_snapshot.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_cpp_video.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_cpp_video_4k.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_default_preview_3a.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_default_video.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_default_video_3a.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_hfr_120.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_hfr_120_3a.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_hfr_60.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_hfr_60_3a.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_hfr_90.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_hfr_90_3a.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_liveshot.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_postproc.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_preview.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_snapshot.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_video_4k.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_zsl_preview_3a.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx268_liteon_zsl_video_3a.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_4K_preview.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_4K_video.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_common.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_cpp_hfr_120.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_cpp_hfr_60.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_cpp_hfr_90.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_cpp_liveshot.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_cpp_preview.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_cpp_snapshot.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_cpp_snapshot_hdr.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_cpp_snapshot_hht.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_cpp_video.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_cpp_video_hdr.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_default_preview.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_default_video.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_hdr_snapshot_3a.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_hdr_video_3a.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_hfr_120.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_hfr_120_3a.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_hfr_60.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_hfr_60_3a.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_hfr_90.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_hfr_90_3a.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_liveshot.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_postproc.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_preview.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_snapshot.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_snapshot_hdr.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_video.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_video_hdr.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_zsl_preview.so 0 0 0644
+vendor/lib/libchromatix_sagit_imx386_semco_zsl_video.so 0 0 0644
+vendor/lib/libconfigdb.so 0 0 0644
+vendor/lib/libdiag.so 0 0 0644
+vendor/lib/libdisplayconfig.qti.so 0 0 0644
+vendor/lib/libdrm.so 0 0 0644
+vendor/lib/libdrmutils.so 0 0 0644
+vendor/lib/libdsi_netctrl.so 0 0 0644
+vendor/lib/libdsutils.so 0 0 0644
+vendor/lib/libeffects.so 0 0 0644
+vendor/lib/libeffectsconfig.so 0 0 0644
+vendor/lib/libfastcvadsp_stub.so 0 0 0644
+vendor/lib/libfastcvopt.so 0 0 0644
+vendor/lib/libflash_pmic.so 0 0 0644
+vendor/lib/libgnss.so 0 0 0644
+vendor/lib/libgnsspps.so 0 0 0644
+vendor/lib/libgps.utils.so 0 0 0644
+vendor/lib/libgpu_tonemapper.so 0 0 0644
+vendor/lib/libgpustats.so 0 0 0644
+vendor/lib/libgrallocutils.so 0 0 0644
+vendor/lib/libgsl.so 0 0 0644
+vendor/lib/libhal_dbg.so 0 0 0644
+vendor/lib/libhdr_tm.so 0 0 0644
+vendor/lib/libhfp.so 0 0 0644
+vendor/lib/libhidltransport.so 0 0 0644
+vendor/lib/libhwbinder.so 0 0 0644
+vendor/lib/libhwdaphal.so 0 0 0644
+vendor/lib/libhypv_intercept.so 0 0 0644
+vendor/lib/libicuuc-v28.so 0 0 0644
+vendor/lib/libidl.so 0 0 0644
+vendor/lib/libjpegdhw.so 0 0 0644
+vendor/lib/libjpegdmahw.so 0 0 0644
+vendor/lib/libjpegehw.so 0 0 0644
+vendor/lib/libjson.so 0 0 0644
+vendor/lib/libkeymaster3device.so 0 0 0644
+vendor/lib/libkeymaster_messages.so 0 0 0644
+vendor/lib/libkeymaster_portable.so 0 0 0644
+vendor/lib/libllvm-glnext.so 0 0 0644
+vendor/lib/libllvm-qcom.so 0 0 0644
+vendor/lib/libloc_core.so 0 0 0644
+vendor/lib/liblocation_api.so 0 0 0644
+vendor/lib/libmdmdetect.so 0 0 0644
+vendor/lib/libmfido.so 0 0 0644
+vendor/lib/libmibokeh_835.so 0 0 0644
+vendor/lib/libminikin-v28.so 0 0 0644
+vendor/lib/libmlipay.so 0 0 0644
+vendor/lib/libmlipay@1.1.so 0 0 0644
+vendor/lib/libmm-omxcore.so 0 0 0644
+vendor/lib/libmm-qcamera.so 0 0 0644
+vendor/lib/libmmcamera2_c2d_module.so 0 0 0644
+vendor/lib/libmmcamera2_cpp_module.so 0 0 0644
+vendor/lib/libmmcamera2_frame_algorithm.so 0 0 0644
+vendor/lib/libmmcamera2_iface_modules.so 0 0 0644
+vendor/lib/libmmcamera2_imglib_modules.so 0 0 0644
+vendor/lib/libmmcamera2_is.so 0 0 0644
+vendor/lib/libmmcamera2_isp_modules.so 0 0 0644
+vendor/lib/libmmcamera2_mct.so 0 0 0644
+vendor/lib/libmmcamera2_mct_shimlayer.so 0 0 0644
+vendor/lib/libmmcamera2_pp_buf_mgr.so 0 0 0644
+vendor/lib/libmmcamera2_pproc_modules.so 0 0 0644
+vendor/lib/libmmcamera2_q3a_core.so 0 0 0644
+vendor/lib/libmmcamera2_sensor_modules.so 0 0 0644
+vendor/lib/libmmcamera2_stats_algorithm.so 0 0 0644
+vendor/lib/libmmcamera2_stats_lib.so 0 0 0644
+vendor/lib/libmmcamera2_stats_modules.so 0 0 0644
+vendor/lib/libmmcamera_arcrtb_lib.so 0 0 0644
+vendor/lib/libmmcamera_arcsoft_smoothtranstion_wrapper_lib.so 0 0 0644
+vendor/lib/libmmcamera_chromaflash_lib.so 0 0 0644
+vendor/lib/libmmcamera_csidtg.so 0 0 0644
+vendor/lib/libmmcamera_dbg.so 0 0 0644
+vendor/lib/libmmcamera_dummyalgo.so 0 0 0644
+vendor/lib/libmmcamera_eebinparse.so 0 0 0644
+vendor/lib/libmmcamera_eeprom_util.so 0 0 0644
+vendor/lib/libmmcamera_eztune_module.so 0 0 0644
+vendor/lib/libmmcamera_facedetection_lib.so 0 0 0644
+vendor/lib/libmmcamera_faceproc.so 0 0 0644
+vendor/lib/libmmcamera_faceproc2.so 0 0 0644
+vendor/lib/libmmcamera_hdr_gb_lib.so 0 0 0644
+vendor/lib/libmmcamera_hvx_add_constant.so 0 0 0644
+vendor/lib/libmmcamera_hvx_grid_sum.so 0 0 0644
+vendor/lib/libmmcamera_imglib.so 0 0 0644
+vendor/lib/libmmcamera_imglib_faceproc_adspstub.so 0 0 0644
+vendor/lib/libmmcamera_imx268.so 0 0 0644
+vendor/lib/libmmcamera_imx386_semco.so 0 0 0644
+vendor/lib/libmmcamera_interface.so 0 0 0644
+vendor/lib/libmmcamera_isp_abf48.so 0 0 0644
+vendor/lib/libmmcamera_isp_aec_bg_stats47.so 0 0 0644
+vendor/lib/libmmcamera_isp_bf_stats47.so 0 0 0644
+vendor/lib/libmmcamera_isp_bg_stats46.so 0 0 0644
+vendor/lib/libmmcamera_isp_bhist_stats44.so 0 0 0644
+vendor/lib/libmmcamera_isp_black_level48.so 0 0 0644
+vendor/lib/libmmcamera_isp_bpc48.so 0 0 0644
+vendor/lib/libmmcamera_isp_cac47.so 0 0 0644
+vendor/lib/libmmcamera_isp_chroma_enhan40.so 0 0 0644
+vendor/lib/libmmcamera_isp_chroma_suppress40.so 0 0 0644
+vendor/lib/libmmcamera_isp_clamp_encoder40.so 0 0 0644
+vendor/lib/libmmcamera_isp_clamp_video40.so 0 0 0644
+vendor/lib/libmmcamera_isp_clamp_viewfinder40.so 0 0 0644
+vendor/lib/libmmcamera_isp_color_correct46.so 0 0 0644
+vendor/lib/libmmcamera_isp_color_xform_encoder46.so 0 0 0644
+vendor/lib/libmmcamera_isp_color_xform_video46.so 0 0 0644
+vendor/lib/libmmcamera_isp_color_xform_viewfinder46.so 0 0 0644
+vendor/lib/libmmcamera_isp_cs_stats46.so 0 0 0644
+vendor/lib/libmmcamera_isp_demosaic48.so 0 0 0644
+vendor/lib/libmmcamera_isp_demux48.so 0 0 0644
+vendor/lib/libmmcamera_isp_fovcrop_encoder46.so 0 0 0644
+vendor/lib/libmmcamera_isp_fovcrop_video46.so 0 0 0644
+vendor/lib/libmmcamera_isp_fovcrop_viewfinder46.so 0 0 0644
+vendor/lib/libmmcamera_isp_gamma44.so 0 0 0644
+vendor/lib/libmmcamera_isp_gic48.so 0 0 0644
+vendor/lib/libmmcamera_isp_gtm46.so 0 0 0644
+vendor/lib/libmmcamera_isp_hdr48.so 0 0 0644
+vendor/lib/libmmcamera_isp_hdr_be_stats46.so 0 0 0644
+vendor/lib/libmmcamera_isp_hdr_bhist_stats44.so 0 0 0644
+vendor/lib/libmmcamera_isp_ihist_stats46.so 0 0 0644
+vendor/lib/libmmcamera_isp_linearization40.so 0 0 0644
+vendor/lib/libmmcamera_isp_ltm47.so 0 0 0644
+vendor/lib/libmmcamera_isp_luma_adaptation40.so 0 0 0644
+vendor/lib/libmmcamera_isp_mce40.so 0 0 0644
+vendor/lib/libmmcamera_isp_mesh_rolloff44.so 0 0 0644
+vendor/lib/libmmcamera_isp_pdaf48.so 0 0 0644
+vendor/lib/libmmcamera_isp_pedestal_correct46.so 0 0 0644
+vendor/lib/libmmcamera_isp_rs_stats46.so 0 0 0644
+vendor/lib/libmmcamera_isp_scaler_encoder46.so 0 0 0644
+vendor/lib/libmmcamera_isp_scaler_video46.so 0 0 0644
+vendor/lib/libmmcamera_isp_scaler_viewfinder46.so 0 0 0644
+vendor/lib/libmmcamera_isp_sce40.so 0 0 0644
+vendor/lib/libmmcamera_isp_snr47.so 0 0 0644
+vendor/lib/libmmcamera_isp_sub_module.so 0 0 0644
+vendor/lib/libmmcamera_llvd.so 0 0 0644
+vendor/lib/libmmcamera_optizoom_lib.so 0 0 0644
+vendor/lib/libmmcamera_paaf_lib.so 0 0 0644
+vendor/lib/libmmcamera_pdaf.so 0 0 0644
+vendor/lib/libmmcamera_pdafcamif.so 0 0 0644
+vendor/lib/libmmcamera_ppbase_module.so 0 0 0644
+vendor/lib/libmmcamera_ppeiscore.so 0 0 0644
+vendor/lib/libmmcamera_quadracfa.so 0 0 0644
+vendor/lib/libmmcamera_s5k3m3_semco.so 0 0 0644
+vendor/lib/libmmcamera_sagit_imx268_liteon.so 0 0 0644
+vendor/lib/libmmcamera_sagit_imx268_liteon_eeprom.so 0 0 0644
+vendor/lib/libmmcamera_sagit_imx268_primax_eeprom.so 0 0 0644
+vendor/lib/libmmcamera_sagit_imx386_semco_eeprom.so 0 0 0644
+vendor/lib/libmmcamera_sagit_s5k3m3_semco_eeprom.so 0 0 0644
+vendor/lib/libmmcamera_stillmore_lib.so 0 0 0644
+vendor/lib/libmmcamera_sw2d_lib.so 0 0 0644
+vendor/lib/libmmcamera_thread_services.so 0 0 0644
+vendor/lib/libmmcamera_tintless_algo.so 0 0 0644
+vendor/lib/libmmcamera_tintless_bg_pca_algo.so 0 0 0644
+vendor/lib/libmmcamera_trueportrait_lib.so 0 0 0644
+vendor/lib/libmmcamera_tuning.so 0 0 0644
+vendor/lib/libmmcamera_tuning_lookup.so 0 0 0644
+vendor/lib/libmmjpeg.so 0 0 0644
+vendor/lib/libmmjpeg_interface.so 0 0 0644
+vendor/lib/libmmlib2d_interface.so 0 0 0644
+vendor/lib/libmmqjpeg_codec.so 0 0 0644
+vendor/lib/libmmqjpegdma.so 0 0 0644
+vendor/lib/libmorpho_easy_hdr.so 0 0 0644
+vendor/lib/libmorpho_hdr_checker.so 0 0 0644
+vendor/lib/libmpbase.so 0 0 0644
+vendor/lib/libmt.so 0 0 0644
+vendor/lib/libnbaio_mono.so 0 0 0644
+vendor/lib/libnetmgr.so 0 0 0644
+vendor/lib/libnetmgr_common.so 0 0 0644
+vendor/lib/libnlnetmgr.so 0 0 0644
+vendor/lib/libois_bu63164.so 0 0 0644
+vendor/lib/libops.so 0 0 0644
+vendor/lib/libopus.so 0 0 0644
+vendor/lib/libperfgluelayer.so 0 0 0644
+vendor/lib/libperipheral_client.so 0 0 0644
+vendor/lib/libpn553_fw.so 0 0 0644
+vendor/lib/libprotobuf-cpp-full-3.9.1.so 0 0 0644
+vendor/lib/libprotobuf-cpp-full.so 0 0 0644
+vendor/lib/libprotobuf-cpp-lite-3.9.1.so 0 0 0644
+vendor/lib/libprotobuf-cpp-lite.so 0 0 0644
+vendor/lib/libpuresoftkeymasterdevice.so 0 0 0644
+vendor/lib/libqdMetaData.so 0 0 0644
+vendor/lib/libqdi.so 0 0 0644
+vendor/lib/libqdp.so 0 0 0644
+vendor/lib/libqdutils.so 0 0 0644
+vendor/lib/libqmi.so 0 0 0644
+vendor/lib/libqmi_cci.so 0 0 0644
+vendor/lib/libqmi_client_helper.so 0 0 0644
+vendor/lib/libqmi_client_qmux.so 0 0 0644
+vendor/lib/libqmi_common_so.so 0 0 0644
+vendor/lib/libqmi_csi.so 0 0 0644
+vendor/lib/libqmi_encdec.so 0 0 0644
+vendor/lib/libqmiservices.so 0 0 0644
+vendor/lib/libqomx_core.so 0 0 0644
+vendor/lib/libqomx_jpegdec.so 0 0 0644
+vendor/lib/libqomx_jpegenc.so 0 0 0644
+vendor/lib/libqomx_jpegenc_pipe.so 0 0 0644
+vendor/lib/libqseed3.so 0 0 0644
+vendor/lib/libqservice.so 0 0 0644
+vendor/lib/libqti-perfd-client.so 0 0 0644
+vendor/lib/libqti-perfd.so 0 0 0644
+vendor/lib/libqti-util.so 0 0 0644
+vendor/lib/libqti_vndfwk_detect.so 0 0 0644
+vendor/lib/libqtigef.so 0 0 0644
+vendor/lib/libreference-ril.so 0 0 0644
+vendor/lib/libremosaic_daemon.so 0 0 0644
+vendor/lib/libril.so 0 0 0644
+vendor/lib/librilutils.so 0 0 0644
+vendor/lib/librmnetctl.so 0 0 0644
+vendor/lib/librs_adreno.so 0 0 0644
+vendor/lib/librs_adreno_sha1.so 0 0 0644
+vendor/lib/libsdm-color.so 0 0 0644
+vendor/lib/libsdm-diag.so 0 0 0644
+vendor/lib/libsdmcore.so 0 0 0644
+vendor/lib/libsdmextension.so 0 0 0644
+vendor/lib/libsdmutils.so 0 0 0644
+vendor/lib/libsdsprpc.so 0 0 0644
+vendor/lib/libsensor1.so 0 0 0644
+vendor/lib/libsensor_reg.so 0 0 0644
+vendor/lib/libsmwrapper.so 0 0 0644
+vendor/lib/libsns_low_lat_stream_stub.so 0 0 0644
+vendor/lib/libsoft_attestation_cert.so 0 0 0644
+vendor/lib/libsoftkeymasterdevice.so 0 0 0644
+vendor/lib/libstagefright_amrnb_common.so 0 0 0644
+vendor/lib/libstagefright_enc_common.so 0 0 0644
+vendor/lib/libstagefright_flacdec.so 0 0 0644
+vendor/lib/libstagefright_soft_aacdec.so 0 0 0644
+vendor/lib/libstagefright_soft_aacenc.so 0 0 0644
+vendor/lib/libstagefright_soft_amrdec.so 0 0 0644
+vendor/lib/libstagefright_soft_amrnbenc.so 0 0 0644
+vendor/lib/libstagefright_soft_amrwbenc.so 0 0 0644
+vendor/lib/libstagefright_soft_avcdec.so 0 0 0644
+vendor/lib/libstagefright_soft_avcenc.so 0 0 0644
+vendor/lib/libstagefright_soft_flacdec.so 0 0 0644
+vendor/lib/libstagefright_soft_flacenc.so 0 0 0644
+vendor/lib/libstagefright_soft_g711dec.so 0 0 0644
+vendor/lib/libstagefright_soft_gsmdec.so 0 0 0644
+vendor/lib/libstagefright_soft_hevcdec.so 0 0 0644
+vendor/lib/libstagefright_soft_mp3dec.so 0 0 0644
+vendor/lib/libstagefright_soft_mpeg2dec.so 0 0 0644
+vendor/lib/libstagefright_soft_mpeg4dec.so 0 0 0644
+vendor/lib/libstagefright_soft_mpeg4enc.so 0 0 0644
+vendor/lib/libstagefright_soft_opusdec.so 0 0 0644
+vendor/lib/libstagefright_soft_rawdec.so 0 0 0644
+vendor/lib/libstagefright_soft_vorbisdec.so 0 0 0644
+vendor/lib/libstagefright_soft_vpxdec.so 0 0 0644
+vendor/lib/libstagefright_soft_vpxenc.so 0 0 0644
+vendor/lib/libstagefright_softomx.so 0 0 0644
+vendor/lib/libstagefright_softomx_plugin.so 0 0 0644
+vendor/lib/libstagefrighthw.so 0 0 0644
+vendor/lib/libthermalclient.so 0 0 0644
+vendor/lib/libtida@1.2.so 0 0 0644
+vendor/lib/libtime_genoff.so 0 0 0644
+vendor/lib/libtinycompress.so 0 0 0644
+vendor/lib/libtinyxml.so 0 0 0644
+vendor/lib/libtinyxml2_1.so 0 0 0644
+vendor/lib/libvorbisidec.so 0 0 0644
+vendor/lib/libvpphvx.so 0 0 0644
+vendor/lib/libvpplibrary.so 0 0 0644
+vendor/lib/libvpx.so 0 0 0644
+vendor/lib/libvqzip.so 0 0 0644
+vendor/lib/libvsim.so 0 0 0644
+vendor/lib/libwebrtc_audio_preprocessing.so 0 0 0644
+vendor/lib/libwfdcommonutils_proprietary.so 0 0 0644
+vendor/lib/libwfddisplayconfig_proprietary.so 0 0 0644
+vendor/lib/libwfdhaldsmanager.so 0 0 0644
+vendor/lib/libwfdhdcpcp.so 0 0 0644
+vendor/lib/libwfdmmservice.so 0 0 0644
+vendor/lib/libwfdmodulehdcpsession.so 0 0 0644
+vendor/lib/libwpa_client.so 0 0 0644
+vendor/lib/libxml.so 0 0 0644
+vendor/lib/mediacas 0 2000 0755
+vendor/lib/mediacas/libclearkeycasplugin.so 0 0 0644
+vendor/lib/mediadrm 0 2000 0755
+vendor/lib/mediadrm/libdrmclearkeyplugin.so 0 0 0644
+vendor/lib/rfsa 0 2000 0755
+vendor/lib/rfsa/adsp 0 2000 0755
+vendor/lib/rfsa/adsp/dirac_resource.dar 0 0 0644
+vendor/lib/rfsa/adsp/dirac_resource.so 0 0 0644
+vendor/lib/rfsa/adsp/libadsp_fd_skel.so 0 0 0644
+vendor/lib/rfsa/adsp/libadsp_hvx_add_constant.so 0 0 0644
+vendor/lib/rfsa/adsp/libadsp_hvx_skel.so 0 0 0644
+vendor/lib/rfsa/adsp/libapps_mem_heap.so 0 0 0644
+vendor/lib/rfsa/adsp/libdirac-capiv2.so 0 0 0644
+vendor/lib/rfsa/adsp/libdspCV_skel.so 0 0 0644
+vendor/lib/rfsa/adsp/libfastcvadsp.so 0 0 0644
+vendor/lib/rfsa/adsp/libfastcvadsp_skel.so 0 0 0644
+vendor/lib/rfsa/adsp/libsns_low_lat_stream_skel.so 0 0 0644
+vendor/lib/rfsa/adsp/libvpp_frc.so 0 0 0644
+vendor/lib/rfsa/adsp/libvpp_svc_skel.so 0 0 0644
+vendor/lib/rfsa/adsp/misound_karaoke_res.bin 0 0 0644
+vendor/lib/rfsa/adsp/misound_karaokemix_res.bin 0 0 0644
+vendor/lib/rfsa/adsp/misound_res.bin 0 0 0644
+vendor/lib/sensors.ssc.so 0 0 0644
+vendor/lib/soundfx 0 2000 0755
+vendor/lib/soundfx/libasphere.so 0 0 0644
+vendor/lib/soundfx/libaudiopreprocessing.so 0 0 0644
+vendor/lib/soundfx/libbundlewrapper.so 0 0 0644
+vendor/lib/soundfx/libdownmix.so 0 0 0644
+vendor/lib/soundfx/libdynproc.so 0 0 0644
+vendor/lib/soundfx/libeffectproxy.so 0 0 0644
+vendor/lib/soundfx/libldnhncr.so 0 0 0644
+vendor/lib/soundfx/libmisoundfx.so 0 0 0644
+vendor/lib/soundfx/libqcbassboost.so 0 0 0644
+vendor/lib/soundfx/libqcompostprocbundle.so 0 0 0644
+vendor/lib/soundfx/libqcomvisualizer.so 0 0 0644
+vendor/lib/soundfx/libqcomvoiceprocessing.so 0 0 0644
+vendor/lib/soundfx/libqcreverb.so 0 0 0644
+vendor/lib/soundfx/libqcvirt.so 0 0 0644
+vendor/lib/soundfx/libreverbwrapper.so 0 0 0644
+vendor/lib/soundfx/libshoebox.so 0 0 0644
+vendor/lib/soundfx/libvisualizer.so 0 0 0644
+vendor/lib/soundfx/libvolumelistener.so 0 0 0644
+vendor/lib/vendor.display.config@1.0.so 0 0 0644
+vendor/lib/vendor.display.config@1.1.so 0 0 0644
+vendor/lib/vendor.display.config@1.2.so 0 0 0644
+vendor/lib/vendor.display.config@1.3.so 0 0 0644
+vendor/lib/vendor.display.config@1.4.so 0 0 0644
+vendor/lib/vendor.display.config@1.5.so 0 0 0644
+vendor/lib/vendor.display.config@1.6.so 0 0 0644
+vendor/lib/vendor.display.config@1.7.so 0 0 0644
+vendor/lib/vendor.display.config@1.8.so 0 0 0644
+vendor/lib/vendor.display.config@1.9.so 0 0 0644
+vendor/lib/vendor.display.config@2.0.so 0 0 0644
+vendor/lib/vendor.qti.hardware.btconfigstore@1.0.so 0 0 0644
+vendor/lib/vendor.qti.hardware.perf@1.0.so 0 0 0644
+vendor/lib/vendor.qti.imsrtpservice@3.0-service-Impl.so 0 0 0644
+vendor/lib/vendor.qti.imsrtpservice@3.0.so 0 0 0644
+vendor/lib/vendor.xiaomi.hardware.displayfeature@1.0.so 0 0 0644
+vendor/lib/vendor.xiaomi.hardware.mfidoca@1.0.so 0 0 0644
+vendor/lib/vendor.xiaomi.hardware.misys@1.0.so 0 0 0644
+vendor/lib/vendor.xiaomi.hardware.misys@2.0.so 0 0 0644
+vendor/lib/vendor.xiaomi.hardware.misys@3.0.so 0 0 0644
+vendor/lib/vendor.xiaomi.hardware.mlipay@1.0.so 0 0 0644
+vendor/lib/vendor.xiaomi.hardware.mlipay@1.1.so 0 0 0644
+vendor/lib/vendor.xiaomi.hardware.mtdservice@1.0.so 0 0 0644
+vendor/lib/vendor.xiaomi.hardware.tidaservice@1.0.so 0 0 0644
+vendor/lib/vendor.xiaomi.hardware.tidaservice@1.1.so 0 0 0644
+vendor/lib/vendor.xiaomi.hardware.tidaservice@1.2.so 0 0 0644
+vendor/lib64 0 2000 0755
+vendor/lib64/android.hardware.audio.common-util.so 0 0 0644
+vendor/lib64/android.hardware.audio.common@6.0-util.so 0 0 0644
+vendor/lib64/android.hardware.camera.provider@2.4-external.so 0 0 0644
+vendor/lib64/android.hardware.camera.provider@2.4-legacy.so 0 0 0644
+vendor/lib64/android.hardware.graphics.composer@2.1-resources.so 0 0 0644
+vendor/lib64/android.hidl.base@1.0.so 0 0 0644
+vendor/lib64/android.hidl.manager@1.0.so 0 0 0644
+vendor/lib64/camera.device@1.0-impl.so 0 0 0644
+vendor/lib64/camera.device@3.2-impl.so 0 0 0644
+vendor/lib64/camera.device@3.3-impl.so 0 0 0644
+vendor/lib64/camera.device@3.4-external-impl.so 0 0 0644
+vendor/lib64/camera.device@3.4-impl.so 0 0 0644
+vendor/lib64/camera.device@3.5-external-impl.so 0 0 0644
+vendor/lib64/camera.device@3.5-impl.so 0 0 0644
+vendor/lib64/camera.device@3.6-external-impl.so 0 0 0644
+vendor/lib64/com.fingerprints.extension@1.0.so 0 0 0644
+vendor/lib64/com.qualcomm.qti.ant@1.0.so 0 0 0644
+vendor/lib64/com.qualcomm.qti.dpm.api@1.0.so 0 0 0644
+vendor/lib64/com.qualcomm.qti.imscmservice@2.0.so 0 0 0644
+vendor/lib64/com.qualcomm.qti.imscmservice@2.1.so 0 0 0644
+vendor/lib64/com.qualcomm.qti.imscmservice@2.2.so 0 0 0644
+vendor/lib64/com.qualcomm.qti.uceservice@2.0.so 0 0 0644
+vendor/lib64/com.qualcomm.qti.uceservice@2.1.so 0 0 0644
+vendor/lib64/com.qualcomm.qti.uceservice@2.2.so 0 0 0644
+vendor/lib64/egl 0 2000 0755
+vendor/lib64/egl/eglSubDriverAndroid.so 0 0 0644
+vendor/lib64/egl/libEGL_adreno.so 0 0 0644
+vendor/lib64/egl/libGLESv1_CM_adreno.so 0 0 0644
+vendor/lib64/egl/libGLESv2_adreno.so 0 0 0644
+vendor/lib64/egl/libQTapGLES.so 0 0 0644
+vendor/lib64/egl/libq3dtools_adreno.so 0 0 0644
+vendor/lib64/egl/libq3dtools_esx.so 0 0 0644
+vendor/lib64/ese_spi_nxp.so 0 0 0644
+vendor/lib64/hw 0 2000 0755
+vendor/lib64/hw/activity_recognition.msm8998.so 0 0 0644
+vendor/lib64/hw/android.hardware.audio.effect@6.0-impl.so 0 0 0644
+vendor/lib64/hw/android.hardware.audio@6.0-impl.so 0 0 0644
+vendor/lib64/hw/android.hardware.bluetooth.audio@2.0-impl.so 0 0 0644
+vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-qti.so 0 0 0644
+vendor/lib64/hw/android.hardware.camera.provider@2.4-impl.so 0 0 0644
+vendor/lib64/hw/android.hardware.drm@1.0-impl.so 0 0 0644
+vendor/lib64/hw/android.hardware.gatekeeper@1.0-impl.so 0 0 0644
+vendor/lib64/hw/android.hardware.gnss@1.0-impl-qti.so 0 0 0644
+vendor/lib64/hw/android.hardware.graphics.allocator@2.0-impl.so 0 0 0644
+vendor/lib64/hw/android.hardware.graphics.mapper@2.0-impl.so 0 0 0644
+vendor/lib64/hw/android.hardware.ir@1.0-impl.so 0 0 0644
+vendor/lib64/hw/android.hardware.keymaster@3.0-impl.so 0 0 0644
+vendor/lib64/hw/android.hardware.light@2.0-impl.so 0 0 0644
+vendor/lib64/hw/android.hardware.memtrack@1.0-impl.so 0 0 0644
+vendor/lib64/hw/android.hardware.renderscript@1.0-impl.so 0 0 0644
+vendor/lib64/hw/android.hardware.sensors@1.0-impl.so 0 0 0644
+vendor/lib64/hw/android.hardware.soundtrigger@2.2-impl.so 0 0 0644
+vendor/lib64/hw/audio.bluetooth.default.so 0 0 0644
+vendor/lib64/hw/audio.primary.default.so 0 0 0644
+vendor/lib64/hw/audio.primary.msm8998.so 0 0 0644
+vendor/lib64/hw/audio.r_submix.default.so 0 0 0644
+vendor/lib64/hw/audio.usb.default.so 0 0 0644
+vendor/lib64/hw/com.qualcomm.qti.ant@1.0-impl.so 0 0 0644
+vendor/lib64/hw/consumerir.msm8998.so 0 0 0644
+vendor/lib64/hw/fingerprint.fpc.msm8998.so 0 0 0644
+vendor/lib64/hw/fingerprint.goodix.msm8998.so 0 0 0644
+vendor/lib64/hw/gatekeeper.msm8998.so 0 0 0644
+vendor/lib64/hw/gralloc.default.so 0 0 0644
+vendor/lib64/hw/gralloc.msm8998.so 0 0 0644
+vendor/lib64/hw/hwcomposer.msm8998.so 0 0 0644
+vendor/lib64/hw/keystore.msm8998.so 0 0 0644
+vendor/lib64/hw/lights.msm8998.so 0 0 0644
+vendor/lib64/hw/local_time.default.so 0 0 0644
+vendor/lib64/hw/memtrack.msm8998.so 0 0 0644
+vendor/lib64/hw/power.default.so 0 0 0644
+vendor/lib64/hw/vendor.qti.hardware.alarm@1.0-impl.so 0 0 0644
+vendor/lib64/hw/vendor.qti.hardware.qccvndhal@1.0-impl.so 0 0 0644
+vendor/lib64/hw/vendor.qti.hardware.soter@1.0-impl.so 0 0 0644
+vendor/lib64/hw/vendor.xiaomi.hardware.displayfeature@1.0-impl.so 0 0 0644
+vendor/lib64/hw/vendor.xiaomi.hardware.misys@1.0-impl.so 0 0 0644
+vendor/lib64/hw/vendor.xiaomi.hardware.misys@2.0-impl.so 0 0 0644
+vendor/lib64/hw/vendor.xiaomi.hardware.misys@3.0-impl.so 0 0 0644
+vendor/lib64/hw/vibrator.default.so 0 0 0644
+vendor/lib64/hw/vulkan.msm8998.so 0 0 0644
+vendor/lib64/lib-imscmservice.so 0 0 0644
+vendor/lib64/lib-imsdpl.so 0 0 0644
+vendor/lib64/lib-imsqimf.so 0 0 0644
+vendor/lib64/lib-imsrcs-v2.so 0 0 0644
+vendor/lib64/lib-imsrcsbaseimpl.so 0 0 0644
+vendor/lib64/lib-imsvtcore.so 0 0 0644
+vendor/lib64/lib-imsxml.so 0 0 0644
+vendor/lib64/lib-rtpcommon.so 0 0 0644
+vendor/lib64/lib-rtpcore.so 0 0 0644
+vendor/lib64/lib-rtpsl.so 0 0 0644
+vendor/lib64/lib-siputility.so 0 0 0644
+vendor/lib64/lib-uceservice.so 0 0 0644
+vendor/lib64/libC2D2.so 0 0 0644
+vendor/lib64/libCB.so 0 0 0644
+vendor/lib64/libDRPlugin.so 0 0 0644
+vendor/lib64/libGPreqcancel.so 0 0 0644
+vendor/lib64/libGPreqcancel_svc.so 0 0 0644
+vendor/lib64/libOmxAacEnc.so 0 0 0644
+vendor/lib64/libOmxAmrEnc.so 0 0 0644
+vendor/lib64/libOmxCore.so 0 0 0644
+vendor/lib64/libOmxEvrcEnc.so 0 0 0644
+vendor/lib64/libOmxQcelp13Enc.so 0 0 0644
+vendor/lib64/libOmxVdec.so 0 0 0644
+vendor/lib64/libOmxVenc.so 0 0 0644
+vendor/lib64/libOpenCL.so 0 0 0644
+vendor/lib64/libQSEEComAPI.so 0 0 0644
+vendor/lib64/libRSDriver_adreno.so 0 0 0644
+vendor/lib64/libSecureUILib.so 0 0 0644
+vendor/lib64/libStDrvInt.so 0 0 0644
+vendor/lib64/libadreno_utils.so 0 0 0644
+vendor/lib64/libadsp_default_listener.so 0 0 0644
+vendor/lib64/libadsprpc.so 0 0 0644
+vendor/lib64/libalsautils.so 0 0 0644
+vendor/lib64/libbccQTI.so 0 0 0644
+vendor/lib64/libbluetooth_audio_session.so 0 0 0644
+vendor/lib64/libbtnv.so 0 0 0644
+vendor/lib64/libc2d30_bltlib.so 0 0 0644
+vendor/lib64/libc2dcolorconvert.so 0 0 0644
+vendor/lib64/libcld80211.so 0 0 0644
+vendor/lib64/libcne.so 0 0 0644
+vendor/lib64/libcneapiclient.so 0 0 0644
+vendor/lib64/libcneoplookup.so 0 0 0644
+vendor/lib64/libcneqmiutils.so 0 0 0644
+vendor/lib64/libconfigdb.so 0 0 0644
+vendor/lib64/libdataitems.so 0 0 0644
+vendor/lib64/libdiag.so 0 0 0644
+vendor/lib64/libdisplayconfig.qti.so 0 0 0644
+vendor/lib64/libdpmqmihal.so 0 0 0644
+vendor/lib64/libdrm.so 0 0 0644
+vendor/lib64/libdrmfs.so 0 0 0644
+vendor/lib64/libdrmtime.so 0 0 0644
+vendor/lib64/libdrmutils.so 0 0 0644
+vendor/lib64/libdrplugin_client.so 0 0 0644
+vendor/lib64/libdsi_netctrl.so 0 0 0644
+vendor/lib64/libdsutils.so 0 0 0644
+vendor/lib64/libeffects.so 0 0 0644
+vendor/lib64/libeffectsconfig.so 0 0 0644
+vendor/lib64/libevent_observer.so 0 0 0644
+vendor/lib64/libflp.so 0 0 0644
+vendor/lib64/libgeofence.so 0 0 0644
+vendor/lib64/libgf_ca.so 0 0 0644
+vendor/lib64/libgf_hal.so 0 0 0644
+vendor/lib64/libgnss.so 0 0 0644
+vendor/lib64/libgnsspps.so 0 0 0644
+vendor/lib64/libgps.utils.so 0 0 0644
+vendor/lib64/libgpu_tonemapper.so 0 0 0644
+vendor/lib64/libgpustats.so 0 0 0644
+vendor/lib64/libgrallocutils.so 0 0 0644
+vendor/lib64/libgsl.so 0 0 0644
+vendor/lib64/libhdr_tm.so 0 0 0644
+vendor/lib64/libhfp.so 0 0 0644
+vendor/lib64/libhidltransport.so 0 0 0644
+vendor/lib64/libhwbinder.so 0 0 0644
+vendor/lib64/libhwc2on1adapter.so 0 0 0644
+vendor/lib64/libhwc2onfbadapter.so 0 0 0644
+vendor/lib64/libhwminijail.so 0 0 0644
+vendor/lib64/libhypv_intercept.so 0 0 0644
+vendor/lib64/libidl.so 0 0 0644
+vendor/lib64/libipanat.so 0 0 0644
+vendor/lib64/libizat_client_api.so 0 0 0644
+vendor/lib64/libizat_core.so 0 0 0644
+vendor/lib64/libjson.so 0 0 0644
+vendor/lib64/libkeymaster3device.so 0 0 0644
+vendor/lib64/libkeymaster_messages.so 0 0 0644
+vendor/lib64/libkeymaster_portable.so 0 0 0644
+vendor/lib64/libkeymasterdeviceutils.so 0 0 0644
+vendor/lib64/libkeymasterprovision.so 0 0 0644
+vendor/lib64/libkeymasterutils.so 0 0 0644
+vendor/lib64/libkeystore-engine-wifi-hidl.so 0 0 0644
+vendor/lib64/libkeystore-wifi-hidl.so 0 0 0644
+vendor/lib64/liblbs_core.so 0 0 0644
+vendor/lib64/libllvm-glnext.so 0 0 0644
+vendor/lib64/libllvm-qcom.so 0 0 0644
+vendor/lib64/libloc_api_v02.so 0 0 0644
+vendor/lib64/libloc_core.so 0 0 0644
+vendor/lib64/libloc_ds_api.so 0 0 0644
+vendor/lib64/liblocation_api.so 0 0 0644
+vendor/lib64/liblowi_client.so 0 0 0644
+vendor/lib64/liblqe.so 0 0 0644
+vendor/lib64/libmdmdetect.so 0 0 0644
+vendor/lib64/libmfido.so 0 0 0644
+vendor/lib64/libmlipay.so 0 0 0644
+vendor/lib64/libmlipay@1.1.so 0 0 0644
+vendor/lib64/libmm-omxcore.so 0 0 0644
+vendor/lib64/libmt.so 0 0 0644
+vendor/lib64/libmt@1.2.so 0 0 0644
+vendor/lib64/libnbaio_mono.so 0 0 0644
+vendor/lib64/libnetfilter_conntrack.so 0 0 0644
+vendor/lib64/libnetmgr.so 0 0 0644
+vendor/lib64/libnetmgr_common.so 0 0 0644
+vendor/lib64/libnfnetlink.so 0 0 0644
+vendor/lib64/libnlnetmgr.so 0 0 0644
+vendor/lib64/liboffloadhal.so 0 0 0644
+vendor/lib64/libops.so 0 0 0644
+vendor/lib64/libpdmapper.so 0 0 0644
+vendor/lib64/libpdnotifier.so 0 0 0644
+vendor/lib64/libperfgluelayer.so 0 0 0644
+vendor/lib64/libperipheral_client.so 0 0 0644
+vendor/lib64/libprotobuf-cpp-full-3.9.1.so 0 0 0644
+vendor/lib64/libprotobuf-cpp-full.so 0 0 0644
+vendor/lib64/libprotobuf-cpp-lite-3.9.1.so 0 0 0644
+vendor/lib64/libprotobuf-cpp-lite.so 0 0 0644
+vendor/lib64/libpuresoftkeymasterdevice.so 0 0 0644
+vendor/lib64/libqcmaputils.so 0 0 0644
+vendor/lib64/libqdMetaData.so 0 0 0644
+vendor/lib64/libqdi.so 0 0 0644
+vendor/lib64/libqdp.so 0 0 0644
+vendor/lib64/libqdutils.so 0 0 0644
+vendor/lib64/libqmi.so 0 0 0644
+vendor/lib64/libqmi_cci.so 0 0 0644
+vendor/lib64/libqmi_client_helper.so 0 0 0644
+vendor/lib64/libqmi_client_qmux.so 0 0 0644
+vendor/lib64/libqmi_common_so.so 0 0 0644
+vendor/lib64/libqmi_csi.so 0 0 0644
+vendor/lib64/libqmi_encdec.so 0 0 0644
+vendor/lib64/libqmiservices.so 0 0 0644
+vendor/lib64/libqrtr.so 0 0 0644
+vendor/lib64/libqseed3.so 0 0 0644
+vendor/lib64/libqservice.so 0 0 0644
+vendor/lib64/libqsocket.so 0 0 0644
+vendor/lib64/libqti-perfd-client.so 0 0 0644
+vendor/lib64/libqti-perfd.so 0 0 0644
+vendor/lib64/libqti-util.so 0 0 0644
+vendor/lib64/libqti_vndfwk_detect.so 0 0 0644
+vendor/lib64/librcc.so 0 0 0644
+vendor/lib64/libreference-ril.so 0 0 0644
+vendor/lib64/libril-qc-ltedirectdisc.so 0 0 0644
+vendor/lib64/libril-qc-qmi-1.so 0 0 0644
+vendor/lib64/libril-qc-radioconfig.so 0 0 0644
+vendor/lib64/libril-qcril-hook-oem.so 0 0 0644
+vendor/lib64/libril.so 0 0 0644
+vendor/lib64/librilqmiservices.so 0 0 0644
+vendor/lib64/librilutils.so 0 0 0644
+vendor/lib64/librmnetctl.so 0 0 0644
+vendor/lib64/librpmb.so 0 0 0644
+vendor/lib64/librs_adreno.so 0 0 0644
+vendor/lib64/librs_adreno_sha1.so 0 0 0644
+vendor/lib64/libsdm-color.so 0 0 0644
+vendor/lib64/libsdm-diag.so 0 0 0644
+vendor/lib64/libsdm-disp-vndapis.so 0 0 0644
+vendor/lib64/libsdmcore.so 0 0 0644
+vendor/lib64/libsdmextension.so 0 0 0644
+vendor/lib64/libsdmutils.so 0 0 0644
+vendor/lib64/libsdsprpc.so 0 0 0644
+vendor/lib64/libsecureui.so 0 0 0644
+vendor/lib64/libsecureui_svcsock.so 0 0 0644
+vendor/lib64/libsensor1.so 0 0 0644
+vendor/lib64/libsensor_reg.so 0 0 0644
+vendor/lib64/libsettings.so 0 0 0644
+vendor/lib64/libsns_low_lat_stream_stub.so 0 0 0644
+vendor/lib64/libsoft_attestation_cert.so 0 0 0644
+vendor/lib64/libsoftkeymasterdevice.so 0 0 0644
+vendor/lib64/libssd.so 0 0 0644
+vendor/lib64/libstagefrighthw.so 0 0 0644
+vendor/lib64/libsystem_health_mon.so 0 0 0644
+vendor/lib64/libthermalclient.so 0 0 0644
+vendor/lib64/libthermalioctl.so 0 0 0644
+vendor/lib64/libtida@1.2.so 0 0 0644
+vendor/lib64/libtime_genoff.so 0 0 0644
+vendor/lib64/libtinycompress.so 0 0 0644
+vendor/lib64/libtinyxml.so 0 0 0644
+vendor/lib64/libtinyxml2_1.so 0 0 0644
+vendor/lib64/libulp2.so 0 0 0644
+vendor/lib64/libvndfwk_detect_jni.qti.so 0 0 0644
+vendor/lib64/libwebrtc_audio_preprocessing.so 0 0 0644
+vendor/lib64/libwfdhdcpcp.so 0 0 0644
+vendor/lib64/libwifi-hal.so 0 0 0644
+vendor/lib64/libwms.so 0 0 0644
+vendor/lib64/libwpa_client.so 0 0 0644
+vendor/lib64/libwqe.so 0 0 0644
+vendor/lib64/libwvhidl.so 0 0 0644
+vendor/lib64/libxml.so 0 0 0644
+vendor/lib64/libxtadapter.so 0 0 0644
+vendor/lib64/libxtwifi_ulp_adaptor.so 0 0 0644
+vendor/lib64/mediacas 0 2000 0755
+vendor/lib64/mediacas/libclearkeycasplugin.so 0 0 0644
+vendor/lib64/mediadrm 0 2000 0755
+vendor/lib64/mediadrm/libdrmclearkeyplugin.so 0 0 0644
+vendor/lib64/nfc_nci_nxp.so 0 0 0644
+vendor/lib64/sensors.ssc.so 0 0 0644
+vendor/lib64/soundfx 0 2000 0755
+vendor/lib64/soundfx/libasphere.so 0 0 0644
+vendor/lib64/soundfx/libaudiopreprocessing.so 0 0 0644
+vendor/lib64/soundfx/libbundlewrapper.so 0 0 0644
+vendor/lib64/soundfx/libdownmix.so 0 0 0644
+vendor/lib64/soundfx/libdynproc.so 0 0 0644
+vendor/lib64/soundfx/libeffectproxy.so 0 0 0644
+vendor/lib64/soundfx/libldnhncr.so 0 0 0644
+vendor/lib64/soundfx/libqcbassboost.so 0 0 0644
+vendor/lib64/soundfx/libqcompostprocbundle.so 0 0 0644
+vendor/lib64/soundfx/libqcomvisualizer.so 0 0 0644
+vendor/lib64/soundfx/libqcomvoiceprocessing.so 0 0 0644
+vendor/lib64/soundfx/libqcreverb.so 0 0 0644
+vendor/lib64/soundfx/libqcvirt.so 0 0 0644
+vendor/lib64/soundfx/libreverbwrapper.so 0 0 0644
+vendor/lib64/soundfx/libshoebox.so 0 0 0644
+vendor/lib64/soundfx/libvisualizer.so 0 0 0644
+vendor/lib64/soundfx/libvolumelistener.so 0 0 0644
+vendor/lib64/vendor.display.config@1.0.so 0 0 0644
+vendor/lib64/vendor.display.config@1.1.so 0 0 0644
+vendor/lib64/vendor.display.config@1.2.so 0 0 0644
+vendor/lib64/vendor.display.config@1.3.so 0 0 0644
+vendor/lib64/vendor.display.config@1.4.so 0 0 0644
+vendor/lib64/vendor.display.config@1.5.so 0 0 0644
+vendor/lib64/vendor.display.config@1.6.so 0 0 0644
+vendor/lib64/vendor.display.config@1.7.so 0 0 0644
+vendor/lib64/vendor.display.config@1.8.so 0 0 0644
+vendor/lib64/vendor.display.config@1.9.so 0 0 0644
+vendor/lib64/vendor.display.config@2.0.so 0 0 0644
+vendor/lib64/vendor.goodix.hardware.fingerprintextension@1.0.so 0 0 0644
+vendor/lib64/vendor.nxp.nxpese@1.0.so 0 0 0644
+vendor/lib64/vendor.nxp.nxpnfc@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.data.factory@2.0.so 0 0 0644
+vendor/lib64/vendor.qti.data.factory@2.1.so 0 0 0644
+vendor/lib64/vendor.qti.data.slm@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.alarm@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.btconfigstore@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.data.cne.internal.api@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.data.cne.internal.constants@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.data.cne.internal.server@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.data.connection@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.data.connection@1.1.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.data.dynamicdds@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.data.latency@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.data.qmi@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.fm@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.perf@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.am@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.atcmdfwd@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.ims@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.ims@1.1.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.ims@1.2.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.ims@1.3.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.ims@1.4.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.ims@1.5.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.ims@1.6.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.lpa@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.qcrilhook@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.qtiradio@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.qtiradio@2.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.qtiradio@2.1.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.qtiradio@2.2.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.qtiradio@2.3.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.qtiradio@2.4.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.uim@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.uim@1.1.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.uim@1.2.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.uim_remote_client@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.uim_remote_client@1.1.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.radio.uim_remote_server@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.slmadapter@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.soter@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.hardware.tui_comm@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.ims.callinfo@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.ims.rcsconfig@1.0.so 0 0 0644
+vendor/lib64/vendor.qti.ims.rcsconfig@1.1.so 0 0 0644
+vendor/lib64/vendor.qti.imsrtpservice@3.0-service-Impl.so 0 0 0644
+vendor/lib64/vendor.qti.imsrtpservice@3.0.so 0 0 0644
+vendor/lib64/vendor.qti.latency@2.0.so 0 0 0644
+vendor/lib64/vendor.xiaomi.hardware.displayfeature@1.0.so 0 0 0644
+vendor/lib64/vendor.xiaomi.hardware.mfidoca@1.0.so 0 0 0644
+vendor/lib64/vendor.xiaomi.hardware.misys@1.0.so 0 0 0644
+vendor/lib64/vendor.xiaomi.hardware.misys@2.0.so 0 0 0644
+vendor/lib64/vendor.xiaomi.hardware.misys@3.0.so 0 0 0644
+vendor/lib64/vendor.xiaomi.hardware.mlipay@1.0.so 0 0 0644
+vendor/lib64/vendor.xiaomi.hardware.mlipay@1.1.so 0 0 0644
+vendor/lib64/vendor.xiaomi.hardware.mtdservice@1.0.so 0 0 0644
+vendor/lib64/vendor.xiaomi.hardware.mtdservice@1.1.so 0 0 0644
+vendor/lib64/vendor.xiaomi.hardware.mtdservice@1.2.so 0 0 0644
+vendor/lib64/vendor.xiaomi.hardware.tidaservice@1.0.so 0 0 0644
+vendor/lib64/vendor.xiaomi.hardware.tidaservice@1.1.so 0 0 0644
+vendor/lib64/vendor.xiaomi.hardware.tidaservice@1.2.so 0 0 0644
+vendor/lost+found 1000 1000 0777
+vendor/odm 0 0 0755
+vendor/odm/etc 0 0 0755
+vendor/odm/etc/NOTICE.xml.gz 0 0 0644
+vendor/odm/etc/build.prop 0 0 0600
+vendor/odm/etc/group 0 0 0644
+vendor/odm/etc/passwd 0 0 0644
+vendor/overlay 0 2000 0755
+vendor/overlay/AospWifiResOverlay.apk 0 0 0644
+vendor/overlay/GestureLineOverlay.apk 0 0 0644
+vendor/overlay/MccMncOverlay.apk 0 0 0644
+vendor/overlay/MiuiBiometricResOverlay.apk 0 0 0644
+vendor/overlay/MiuiBluetoothOverlay.apk 0 0 0644
+vendor/overlay/MiuiFrameworkResOverlay.apk 0 0 0644
+vendor/overlay/NetworkStackOverlay.apk 0 0 0644
+vendor/panel_style 0 0 0755
+vendor/panel_style/shuidi 0 0 0755
+vendor/panel_style/shuidi/DevicesAndroidOverlay.apk 0 0 0644
+vendor/panel_style/shuidi/DevicesOverlay.apk 0 0 0644
+vendor/panel_style/shuidi/MiuiSystemUIResOverlay.apk 0 0 0644
+vendor/panel_style/wakong 0 0 0755
+vendor/panel_style/wakong/DevicesAndroidOverlay.apk 0 0 0644
+vendor/panel_style/wakong/DevicesOverlay.apk 0 0 0644
+vendor/panel_style/wakong/MiuiSystemUIResOverlay.apk 0 0 0644
+vendor/radio 0 2000 0755
+vendor/radio/qcril_database 0 2000 0755
+vendor/radio/qcril_database/qcril.db 0 0 0644
+vendor/radio/qcril_database/upgrade 0 2000 0755
+vendor/radio/qcril_database/upgrade/0_initial.sql 0 0 0644
+vendor/radio/qcril_database/upgrade/1_version_intro.sql 0 0 0644
+vendor/radio/qcril_database/upgrade/2_version_add_wps_config.sql 0 0 0644
+vendor/radio/qcril_database/upgrade/3_version_update_wps_config.sql 0 0 0644
+vendor/radio/qcril_database/upgrade/4_version_update_ecc_table.sql 0 0 0644
+vendor/radio/qcril_database/upgrade/5_version_update_ecc_table.sql 0 0 0644
+vendor/rfs 0 2000 0755
+vendor/rfs/msm 0 2000 0755
+vendor/rfs/msm/adsp 0 2000 0755
+vendor/rfs/msm/adsp/hlos 0 0 0644 /mnt/vendor/persist/hlos_rfs/shared
+vendor/rfs/msm/adsp/ramdumps 0 0 0644 /data/vendor/tombstones/rfs/lpass
+vendor/rfs/msm/adsp/readonly 0 2000 0755
+vendor/rfs/msm/adsp/readonly/firmware 0 0 0644 /vendor/firmware_mnt
+vendor/rfs/msm/adsp/readonly/vendor 0 2000 0755
+vendor/rfs/msm/adsp/readonly/vendor/firmware 0 0 0644 /vendor/firmware
+vendor/rfs/msm/adsp/readwrite 0 0 0644 /mnt/vendor/persist/rfs/msm/adsp
+vendor/rfs/msm/adsp/shared 0 0 0644 /mnt/vendor/persist/rfs/shared
+vendor/rfs/msm/mpss 0 2000 0755
+vendor/rfs/msm/mpss/hlos 0 0 0644 /mnt/vendor/persist/hlos_rfs/shared
+vendor/rfs/msm/mpss/ramdumps 0 0 0644 /data/vendor/tombstones/rfs/modem
+vendor/rfs/msm/mpss/readonly 0 2000 0755
+vendor/rfs/msm/mpss/readonly/firmware 0 0 0644 /vendor/firmware_mnt
+vendor/rfs/msm/mpss/readonly/vendor 0 2000 0755
+vendor/rfs/msm/mpss/readonly/vendor/firmware 0 0 0644 /vendor/firmware
+vendor/rfs/msm/mpss/readwrite 0 0 0644 /mnt/vendor/persist/rfs/msm/mpss
+vendor/rfs/msm/mpss/shared 0 0 0644 /mnt/vendor/persist/rfs/shared
+vendor/rfs/msm/slpi 0 2000 0755
+vendor/rfs/msm/slpi/hlos 0 0 0644 /mnt/vendor/persist/hlos_rfs/shared
+vendor/rfs/msm/slpi/ramdumps 0 0 0644 /data/vendor/tombstones/rfs/slpi
+vendor/rfs/msm/slpi/readonly 0 2000 0755
+vendor/rfs/msm/slpi/readonly/firmware 0 0 0644 /vendor/firmware_mnt
+vendor/rfs/msm/slpi/readonly/vendor 0 2000 0755
+vendor/rfs/msm/slpi/readonly/vendor/firmware 0 0 0644 /vendor/firmware
+vendor/rfs/msm/slpi/readwrite 0 0 0644 /mnt/vendor/persist/rfs/msm/slpi
+vendor/rfs/msm/slpi/shared 0 0 0644 /mnt/vendor/persist/rfs/shared
+vendor/stock_init 0 0 0755
+vendor/stock_init/overlay.zip 0 0 0644
+vendor/stock_init/stock.prop 0 0 0644
+vendor/stock_init/vendor.xiaomi.hardware.misys@3.0-service.rc 0 0 0644
+vendor/stock_init/vendor.xiaomi.hardware.vsimapp@1.0-service.rc 0 0 0644
+vendor/ueventd.rc 0 0 0644
+vendor/usr 0 2000 0755
+vendor/usr/keylayout 0 2000 0755
+vendor/usr/keylayout/synaptics_dsx.kl 0 0 0644
+vendor/usr/keylayout/uinput-fpc.kl 0 0 0644
+vendor/usr/keylayout/uinput-goodix.kl 0 0 0644
